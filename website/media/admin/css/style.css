@@ -1,0 +1,253 @@
+* {
+    border: 0;
+    margin: 0px 0px;
+}
+
+h1 {
+    padding: 3px 5px;
+}
+
+p {
+    padding: 5px 5px;
+    background: #ffffff;
+}
+
+hr {
+    color: #666;
+    margin: 10px 0px;
+    border-bottom: 1px solid #666;
+}
+
+img {
+    border: none;
+    background: none;
+}
+
+a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font: 12px Arial, Helvetica, sans-serif;
+    color: #333333;
+    background: #ffffff;
+    line-height: 20px;
+    width: 100%;
+}
+
+.left-rounded-border {
+    -moz-border-radius: 10px 0px 0px 10px;
+    -webkit-border-radius: 10px 0px 0px 10px;
+    -khtml-border-radius: 10px 0px 0px 10px;
+}
+
+#wrapper {
+    min-height: 100%;
+    min-width: 1200px;
+}
+
+#header {
+    width: 100%;
+}
+
+#banner {
+    height: 100px;
+    clear: both;
+}
+
+#buttons {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    padding: 0px 0px;
+    z-index: 1;
+}
+
+#buttons li {
+    float: left;
+    list-style: none;
+}
+
+#buttons li a {
+    display: block;
+    padding: 5px 13px;
+    text-decoration: none;
+    min-width: 60px;
+    color: #EAFFED;
+    background: #291301;
+    white-space: nowrap;
+    font-size: 14px;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+#buttons li a:hover {
+    opacity: 0.9;
+}
+
+#buttons li ul {
+    display: inline-block;
+    margin: auto;
+    padding: 0;
+    position: absolute;
+    left: 80px;
+    top: auto;
+    visibility: hidden;
+    width: 690px;
+    background: #000000;
+    min-height: 15px;
+    opacity: 0.8;
+}
+
+#buttons li ul li {
+}
+
+#buttons li ul li a {
+    padding: 0px 5px;
+    margin: 2px 0px;
+    font-size: 10px;
+    width: auto;
+    text-align: center;
+    background: #000000;
+    margin-right: 1.0px;
+    border: none;
+}
+
+#buttons li ul li a:hover {
+    background: #000000;
+    opacity: 0.6;
+}
+
+#main {
+    min-height: 100%;
+    padding-bottom: 50px;
+    background-image: url("/media/img/grad.jpg");
+    background-repeat: repeat-x;
+}
+
+#sidebar {
+    min-height: 300px;
+    width: 200px;
+    position: absolute;
+    left: 880px;
+    top: 130px;
+    padding: 20px;
+    margin-right: 40px;
+}
+
+#content {
+    min-height: 500px;
+    margin-left: 80px;
+    padding: 50px 20px;
+    text-align: justify;
+    width: 650px;
+	background-color:#ffffff;
+}
+
+#content h1 {
+    margin-bottom: 5px;
+}
+
+#content p {
+    margin: 0px;
+    clear: both;
+}
+
+#content .left {
+    margin: 0 5px;
+    float: left;
+}
+
+#content .right {
+    margin: 0 5px;
+    float: right;
+}
+
+#footer {
+    font-size: 11px;
+    color: #EAFFED;
+    text-align: left;
+    padding: 5px 0px;
+	padding-left:80px;
+    background: #291301;
+    position: relative;
+	margin-top:-50px;
+    padding:20px 0px;
+    height: 100px;
+    margin-bottom: 0px;
+    width: auto;
+    clear: both;
+}
+#footer ul li{
+	display:block;
+	margin:0;
+	padding:0;
+	line-height:15px;
+}
+#footer li{
+	margin:2px 0px;
+}
+#footer a {
+    padding: 5px 0px;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+#footer a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/************************** Extra *************************/
+#follow-us {
+    margin-top: 5px;
+}
+
+#follow-us a {
+    margin-right: 5px;
+}
+
+#socializethis {
+    background: #CCC;
+    border: solid 1px #666;
+    border-width: 1px 0 0 1px;
+    height: 15px;
+    width: 260px;
+    position: fixed;
+    bottom: 0px;
+    right: 0;
+    padding: 2px 5px;
+    overflow: hidden;
+    /* CSS3 */
+    -webkit-border-top-left-radius: 12px;
+    -moz-border-radius-topleft: 12px;
+    border-top-left-radius: 12px;
+    -moz-box-shadow: -3px -3px 3px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: -3px -3px 3px rgba(0, 0, 0, 0.5);
+    box-shadow: -3px -3px 3px rgba(0, 0, 0, 0.5);
+}
+
+#socializethis a {
+    float: left;
+    width: 32px;
+    margin: 3px 2px 2px 2px;
+    padding: 0;
+}
+
+#socializethis span {
+    float: left;
+    margin: 2px 3px;
+    text-shadow: 1px 1px 1px #FFF;
+    color: #444;
+    font-size: 12px;
+}

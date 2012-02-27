@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block extra_head %}
+{% endblock %}
+{% block title %}Citations{% endblock %}
+{% block content %}
+
+<h2>Hello, <span style="color:blue;"><i><a href="/professor-details/{{ prof.id }}/">{{ prof.name }}</a>! </i></span> these are people you should collaborate with in this conference on the basis of who has cited you most - </h2>
+<p>
+    <ul>
+    {% for p in participants %}
+        <li>
+        <span style="color:blue"><a href="/professor-details/{{ p.professor.id }}/">{{ p.professor.name }}</a></span>  from <span style="color:blue;">{{ p.professor.university }}</span> has cited you in his/her <span style="color:blue;">{{ p.count }} papers</span>.
+        <br/><br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue"><u><i>Detail of papers -</i></u></span>
+        <ul style="margin:10px 40px;">
+        {% for paper in paper_list %}
+            {% if p.professor in paper.citers %}
+            <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ paper.title }}</li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+        <br/>
+        </li>
+    {% endfor %}
+    </ul>
+</p>
+{% endblock %}

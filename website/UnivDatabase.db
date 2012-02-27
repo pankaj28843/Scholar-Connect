@@ -1,0 +1,2160 @@
+(dp0
+S''
+p1
+(dp2
+S'name'
+p3
+S'universidad-carlos-iii-de-madrid'
+p4
+sS'addr'
+p5
+g1
+ssS'www.unipi.it'
+p6
+(dp7
+g3
+S'university-pisa'
+p8
+sg5
+VLungarno Pacinotti, 43\u000aPisa\u000aItaly
+p9
+ssS'www.tohoku.ac.jp'
+p10
+(dp11
+g3
+S'tohoku-university'
+p12
+sg5
+V1-1 Katahira 2-chome\u000aAoba-ku\u000aSendai\u000aMiyagi \u000aJapan
+p13
+ssS'www.ntnu.no'
+p14
+(dp15
+g3
+S'norwegian-university-science-and-technology'
+p16
+sg5
+VTrondheim\u000aNorway
+p17
+ssS'www.umich.edu'
+p18
+(dp19
+g3
+S'university-michigan'
+p20
+sg5
+VAnn Arbor\u000aMI\u000aUnited States
+p21
+ssS'www.tsukuba.ac.jp/'
+p22
+(dp23
+g3
+S'university-tsukuba'
+p24
+sg5
+V1-1-1 Tennodai\u000aTsukuba\u000aIbaraki-ken\u000aJapan
+p25
+ssS'www.univie.ac.at'
+p26
+(dp27
+g3
+S'university-vienna'
+p28
+sg5
+VDr. Karl Lueger Ring 1\u000aVienna\u000aAustria
+p29
+ssS'www.iitm.ac.in'
+p30
+(dp31
+g3
+S'indian-institute-technology-madras-iitm'
+p32
+sg5
+VI.I.T Post Office\u000aChennai\u000aIndia
+p33
+ssS'www.unc.edu'
+p34
+(dp35
+g3
+S'university-north-carolina-chapel-hill'
+p36
+sg5
+VCB #2200, Jackson Hall\u000aChapel Hill\u000aNC\u000aUnited States
+p37
+ssS'www.usyd.edu.au'
+p38
+(dp39
+g3
+S'university-sydney'
+p40
+sg5
+VSydney\u000aNSW\u000aAustralia
+p41
+ssS'www.u-tokyo.ac.jp'
+p42
+(dp43
+g3
+S'university-tokyo'
+p44
+sg5
+V7-3-1\u000aHongo\u000aBunkyo-ku\u000aTokyo\u000aJapan
+p45
+ssS'www.nd.edu'
+p46
+(dp47
+g3
+S'university-notre-dame'
+p48
+sg5
+VNotre Dame\u000aIN\u000aUnited States
+p49
+ssS'www.yale.edu'
+p50
+(dp51
+g3
+S'yale-university'
+p52
+sg5
+VP.O. Box 208236\u000aNew Haven\u000aCT\u000aUnited States
+p53
+ssS'www.msu.ru'
+p54
+(dp55
+g3
+S'lomonosov-moscow-state-university'
+p56
+sg5
+VGSP-1, Leninskie Gory,\u000aGSP-1, Vorobievy Gory\u000aMoscow\u000aRussia
+p57
+ssS'www.uu.nl'
+p58
+(dp59
+g3
+S'utrecht-university'
+p60
+sg5
+VP.O Box 80125\u000aUtrecht\u000aUtrecht\u000aNetherlands
+p61
+ssS'www.anu.edu.au'
+p62
+(dp63
+g3
+S'australian-national-university'
+p64
+sg5
+VCanberra\u000aACT\u000aAustralia
+p65
+ssS'www.tju.edu.cn'
+p66
+(dp67
+g3
+S'tianjin-university'
+p68
+sg5
+VNo. 92 Weijin Road\u000aNankai\u000aTianjin\u000aChina
+p69
+ssS'www.queensu.ca'
+p70
+(dp71
+g3
+S'queens-university'
+p72
+sg5
+V99 University Avenue\u000aKingston\u000aOntario\u000aCanada
+p73
+ssS'www.um.edu.my'
+p74
+(dp75
+g3
+S'universiti-malaya-um'
+p76
+sg5
+VLembah Pantai\u000aLevel 1\u000aCanseleri Building\u000aKuala Lumpur\u000aMalaysia
+p77
+ssS'www.ualberta.ca'
+p78
+(dp79
+g3
+S'university-alberta'
+p80
+sg5
+V114 St. - 89 Ave\u000aEdmonton\u000aAlberta\u000aCanada
+p81
+ssS'www.massey.ac.nz'
+p82
+(dp83
+g3
+S'massey-university'
+p84
+sg5
+VMassey University\u000aPrivate Bag 11 222\u000aPalmerston North\u000aNew Zealand
+p85
+ssS'www.cu.edu.eg'
+p86
+(dp87
+g3
+S'cairo-university'
+p88
+sg5
+VGamaa Street\u000aGiza\u000aEgypt
+p89
+ssS'www.ubc.ca'
+p90
+(dp91
+g3
+S'university-british-columbia'
+p92
+sg5
+V2329 West Mall\u000aVancouver\u000aCanada
+p93
+ssS'www.helsinki.fi'
+p94
+(dp95
+g3
+S'university-helsinki'
+p96
+sg5
+VP.O. Box 33\u000aHelsinki\u000aHelsinki\u000aFinland
+p97
+ssS'www.nju.edu.cn'
+p98
+(dp99
+g3
+S'nanjing-university'
+p100
+sg5
+VNo. 22 Hankou Road\u000aNanjing\u000aJiangsu\u000aChina
+p101
+ssS'www.upv.es'
+p102
+(dp103
+g3
+S'universidad-politecnica-de-valencia'
+p104
+sg5
+VCamino de Vera, s/n\u000aValencia\u000aSpain
+p105
+ssS'www.deakin.edu.au'
+p106
+(dp107
+g3
+S'deakin-university'
+p108
+sg5
+V1 Gherinhap Street\u000aGeelong\u000aVIC\u000aAustralia
+p109
+ssS'www.spbu.ru'
+p110
+(dp111
+g3
+S'saint-petersburg-state-university'
+p112
+sg5
+V7-9, University emb.\u000aSt.Petersburg\u000aRussia
+p113
+ssS'www.kyushu-u.ac.jp'
+p114
+(dp115
+g3
+S'kyushu-university'
+p116
+sg5
+V6-10-1 Hakozaki\u000aHigashi-ku\u000aFukuoka\u000aJapan
+p117
+ssS'www.pw.edu.pl'
+p118
+(dp119
+g3
+S'warsaw-university-technology'
+p120
+sg5
+VPl. Politechniki 1\u000aWarsaw \u000aPoland
+p121
+ssS'www.leeds.ac.uk'
+p122
+(dp123
+g3
+S'university-leeds'
+p124
+sg5
+VLeeds\u000aUnited Kingdom
+p125
+ssS'www.iastate.edu'
+p126
+(dp127
+g3
+S'iowa-state-university'
+p128
+sg5
+VAmes\u000aIA \u000aUnited States
+p129
+ssS'www.ntu.edu.sg'
+p130
+(dp131
+g3
+S'nanyang-technological-university-ntu'
+p132
+sg5
+V50 Nanyang Avenue\u000aSingapore\u000aSingapore
+p133
+ssS'www.tsinghua.edu.cn'
+p134
+(dp135
+g3
+S'tsinghua-university'
+p136
+sg5
+VTsinghua Yuan, Haidian District\u000aNo. 9, Dong Dan San Tiao, Dongchen District, (Peking Union Medical College )\u000aBeijing\u000aP.R. China\u000aChina
+p137
+ssS'www.ed.ac.uk'
+p138
+(dp139
+g3
+S'university-edinburgh'
+p140
+sg5
+VOld College\u000aSouth Bridge\u000aEdinburgh\u000aUnited Kingdom
+p141
+ssS'www.nctu.edu.tw'
+p142
+(dp143
+g3
+S'national-chiao-tung-university'
+p144
+sg5
+V1001 University Road\u000a Hsinchu\u000aTaiwan
+p145
+ssS'www.psu.edu'
+p146
+(dp147
+g3
+S'pennsylvania-state-university'
+p148
+sg5
+V201 Old Main\u000aUniversity Park\u000aPA\u000aUnited States
+p149
+ssS'www.qut.edu.au'
+p150
+(dp151
+g3
+S'queensland-university-technology'
+p152
+sg5
+VGPO Box 2434\u000aGardens Point Campus\u000a2 George Street\u000aBrisbane\u000aQLD\u000aAustralia
+p153
+ssS'www.uzh.ch'
+p154
+(dp155
+g3
+S'university-zurich'
+p156
+sg5
+VPresident's Office\u000aKuenstlergasse 15\u000aZrich\u000aSwitzerland
+p157
+ssS'www.vu.nl'
+p158
+(dp159
+g3
+S'vu-university-amsterdam'
+p160
+sg5
+VDe Boelelaan 1105\u000aAmsterdam\u000aNetherlands
+p161
+ssS'www.kth.se'
+p162
+(dp163
+g3
+S'kth-royal-institute-technology'
+p164
+sg5
+VValhallavagen 79\u000aStockholm\u000aSweden
+p165
+ssS'www.iitr.ernet.in'
+p166
+(dp167
+g3
+S'indian-institute-technology-roorkee-iitr'
+p168
+sg5
+VRoorkee\u000aUttarakhand\u000aIndia
+p169
+ssS'www.waseda.ac.jp'
+p170
+(dp171
+g3
+S'waseda-university'
+p172
+sg5
+V1-104 Totsukamachi\u000aShinjuku-ku\u000aTokyo\u000aJapan
+p173
+ssS'www.keio.ac.jp'
+p174
+(dp175
+g3
+S'keio-university'
+p176
+sg5
+V2-15-45 Mita, Minato-ku\u000aTokyo\u000aJapan
+p177
+ssS'www.duke.edu'
+p178
+(dp179
+g3
+S'duke-university'
+p180
+sg5
+V2138 Campus Drive\u000aBox 90586\u000aDurham\u000aNC\u000aUnited States
+p181
+ssS'www.uchile.cl'
+p182
+(dp183
+g3
+S'universidad-de-chile'
+p184
+sg5
+VAv. Libertador Bernardo O'Higgins 1058\u000aSantiago\u000aChile
+p185
+ssS'www.pku.edu.cn'
+p186
+(dp187
+g3
+S'peking-university'
+p188
+sg5
+VNo. 5 Yiheyuan Road\u000aHaidian District\u000aBeijing\u000aBeijing\u000aChina
+p189
+ssS'www.sharif.ir'
+p190
+(dp191
+g3
+S'sharif-university-technology'
+p192
+sg5
+VAzadi Ave\u000aP.O. Box 11365-8639\u000aTehran\u000aIran
+p193
+ssS'www.iitg.ac.in'
+p194
+(dp195
+g3
+S'indian-institute-technology-guwahati-iitg'
+p196
+sg5
+VGuwahati\u000aAssam\u000aIndia
+p197
+ssS'www.ncku.edu.tw'
+p198
+(dp199
+g3
+S'national-cheng-kung-university'
+p200
+sg5
+V1 University Road\u000aTainan\u000aTaiwan
+p201
+ssS'www.uwa.edu.au'
+p202
+(dp203
+g3
+S'university-western-australia'
+p204
+sg5
+V35\u000aStirling Highway\u000aPerth\u000aCrawley\u000aWA\u000aAustralia
+p205
+ssS'www.chula.ac.th'
+p206
+(dp207
+g3
+S'chulalongkorn-university'
+p208
+sg5
+V254 Phyathai Road, \u000aPatumwan\u000aBangkok\u000aThailand
+p209
+ssS'www.mcgill.ca'
+p210
+(dp211
+g3
+S'mcgill-university'
+p212
+sg5
+V845 Sherbrooke Street West\u000aMontreal\u000aQuebec\u000aCanada
+p213
+ssS'www.osu.edu'
+p214
+(dp215
+g3
+S'ohio-state-university'
+p216
+sg5
+VEnarson Hall 154 W 12th Avenue\u000aColumbus\u000aOH\u000aUnited States
+p217
+ssS'www.nottingham.ac.uk'
+p218
+(dp219
+g3
+S'university-nottingham'
+p220
+sg5
+VUniversity Park\u000aNottingham\u000aNottingham\u000aUnited Kingdom
+p221
+ssS'www.ulaval.ca'
+p222
+(dp223
+g3
+S'laval-university'
+p224
+sg5
+VQubec\u000aCanada
+p225
+ssS'ev.buaa.edu.cn/index.php'
+p226
+(dp227
+g3
+S'beihang-university-former-bauu'
+p228
+sg5
+VNo. 37 XueYuan Road \u000aHaiDian District\u000aBeijing\u000aChina
+p229
+ssS'www.uct.ac.za'
+p230
+(dp231
+g3
+S'university-cape-town'
+p232
+sg5
+VPrivate Bag\u000aRondebosch\u000aSouth Africa
+p233
+ssS'www.shef.ac.uk'
+p234
+(dp235
+g3
+S'university-sheffield'
+p236
+sg5
+VWestern Bank\u000aSheffield\u000aSheffield\u000aUnited Kingdom
+p237
+ssS'www.nust.edu.pk'
+p238
+(dp239
+g3
+S'national-university-sciences-and-technology-nust-islamabad'
+p240
+sg5
+VSector H-12\u000aIslamabad\u000aPakistan
+p241
+ssS'www.tongji.edu.cn'
+p242
+(dp243
+g3
+S'tongji-university'
+p244
+sg5
+VNo. 1239 Siping Road\u000aShanghai\u000aChina
+p245
+ssS'www.uwaterloo.ca'
+p246
+(dp247
+S'name'
+p248
+S'Waterloo University'
+p249
+sS'addr'
+p250
+S'Waterloo, Canada'
+p251
+ssS'www.curtin.edu.au'
+p252
+(dp253
+g3
+S'curtin-university-technology'
+p254
+sg5
+VKent St Bentley\u000aPerth\u000aWA\u000aAustralia
+p255
+ssS'www.tau.ac.il'
+p256
+(dp257
+g3
+S'tel-aviv-university'
+p258
+sg5
+VRamat Aviv\u000aP.O. Box 39040\u000aTel Aviv\u000aIsrael
+p259
+ssS'www.waikato.ac.nz'
+p260
+(dp261
+g3
+S'university-waikato'
+p262
+sg5
+VTe Whare Wananga o Waikato \u000aGate 1 Knighton Road\u000aHamilton \u000aNew Zealand
+p263
+ssS'www.rmit.edu.au'
+p264
+(dp265
+g3
+S'rmit-university'
+p266
+sg5
+VGPO Box 2476\u000aMelbourne\u000aVIC\u000aAustralia\u000aHandi Resco Building,\u000a521 Kim Ma\u000aBa Dinh District\u000aHanoi\u000aVietnam\u000aRMIT University Vietnam Campus, Hanoi\u000aHandi Resco Building, 521 Kim Ma\u000aBa Dinh District\u000aHanoi\u000aVietnam\u000aRMIT University Vietnam Campus, Saigon South\u000a702 Nguyen Van Linh\u000aDistrict 7\u000aHo Chi Minh City	\u000aVietnam
+p267
+ssS'www.dartmouth.edu'
+p268
+(dp269
+g3
+S'dartmouth-college'
+p270
+sg5
+VHanover\u000aNH\u000aUnited States
+p271
+ssS'www.polito.it'
+p272
+(dp273
+g3
+S'politecnico-di-torino'
+p274
+sg5
+VCorso Duca degli Abruzzi, 24\u000aTorino\u000aItaly
+p275
+ssS'www.ua.edu'
+p276
+(dp277
+g3
+S'university-alabama'
+p278
+sg5
+VTuscaloosa\u000aAL\u000aUnited States
+p279
+ssS'www.us.es'
+p280
+(dp281
+g3
+S'universidad-de-sevilla'
+p282
+sg5
+VPo. de las Delicias, s/n\u000aSevilla\u000aSpain
+p283
+ssS'www.korea.edu'
+p284
+(dp285
+g3
+S'korea-university'
+p286
+sg5
+VAnam-dong\u000aSeongbuk-Gu\u000aSeoul\u000aKorea, South
+p287
+ssS'www.vt.edu'
+p288
+(dp289
+g3
+S'virginia-polytechnic-institute-virginia-tech'
+p290
+sg5
+VBlacksburg\u000aVA\u000aUnited States
+p291
+ssS'www.iitb.ac.in'
+p292
+(dp293
+g3
+S'indian-institute-technology-bombay-iitb'
+p294
+sg5
+VPowai\u000aMumbai\u000aIndia
+p295
+ssS'www.dtu.dk'
+p296
+(dp297
+g3
+S'technical-university-denmark'
+p298
+sg5
+VAnker Engelundsvej 1\u000aBuilding 101A\u000aKgs. Lyngby\u000aDenmark
+p299
+ssS'www.useoul.edu'
+p300
+(dp301
+g3
+S'seoul-national-university'
+p302
+sg5
+V599 Gwanak-ro\u000aGwanak-gu\u000aSeoul\u000aGwanak\u000aKorea, South
+p303
+ssS'www.uio.no'
+p304
+(dp305
+g3
+S'university-oslo'
+p306
+sg5
+VBoks 1072 Blindern\u000aOslo\u000aNorway
+p307
+ssS'www.kcl.ac.uk'
+p308
+(dp309
+g3
+S'kings-college-london-university-london'
+p310
+sg5
+VThe Strand\u000aLondon\u000aUnited Kingdom
+p311
+ssS'www.ucsb.edu'
+p312
+(dp313
+g3
+S'university-california-santa-barbara-ucsb'
+p314
+sg5
+V3117 Cheadle Hall\u000aSanta Barbara\u000aCA\u000aUnited States
+p315
+ssS'www.uu.se'
+p316
+(dp317
+g3
+S'uppsala-university'
+p318
+sg5
+VP.O. Box 256\u000aUppsala\u000aUppsala\u000aSweden
+p319
+ssS'www.polyu.edu.hk'
+p320
+(dp321
+g3
+S'hong-kong-polytechnic-university'
+p322
+sg5
+VHung Hom, Kowloon\u000aHong Kong\u000aHong Kong
+p323
+ssS'www.ox.ac.uk'
+p324
+(dp325
+g3
+S'university-oxford'
+p326
+sg5
+VWellington Square\u000aOxford\u000aUnited Kingdom
+p327
+ssS'www.cornell.edu'
+p328
+(dp329
+g3
+S'cornell-university'
+p330
+sg5
+VDay Hall Lobby\u000aIthaca\u000aNY\u000aUnited States
+p331
+ssS'www.cuhk.edu.hk'
+p332
+(dp333
+g3
+S'chinese-university-hong-kong'
+p334
+sg5
+VShatin, N.T\u000aHong Kong SAR\u000aHong Kong
+p335
+ssS'www.auckland.ac.nz'
+p336
+(dp337
+g3
+S'university-auckland'
+p338
+sg5
+VPrivate Bag 92019\u000aAuckland Mail Centre\u000aAuckland\u000aAuckland\u000aNew Zealand
+p339
+ssS'www.berkeley.edu'
+p340
+(dp341
+g3
+S'university-california-berkeley-ucb'
+p342
+sg5
+V110 Sproul Hall\u000aBerkeley\u000aCA\u000aUnited States
+p343
+ssS'www.washington.edu'
+p344
+(dp345
+g3
+S'university-washington'
+p346
+sg5
+VSeattle\u000aWA\u000aUnited States
+p347
+ssS'www.york.ac.uk'
+p348
+(dp349
+g3
+S'university-york'
+p350
+sg5
+VHeslington\u000aYork\u000aYork\u000aUnited Kingdom
+p351
+ssS'www.canterbury.ac.nz'
+p352
+(dp353
+g3
+S'university-canterbury'
+p354
+sg5
+VTe Whare Wananga o Waitaha\u000aPrivate Bag 4800\u000aChristchurch\u000aNew Zealand
+p355
+ssS'www.utm.my'
+p356
+(dp357
+g3
+S'universiti-teknologi-malaysia-utm'
+p358
+sg5
+VSkudai\u000aJohor Darul Takzim\u000aMalaysia
+p359
+ssS'www.chiangmai.ac.th'
+p360
+(dp361
+g3
+S'chiang-mai-university'
+p362
+sg5
+V239 Huay Keaw Road\u000aSuthep\u000aMuang District\u000aChiang Mai\u000aThailand
+p363
+ssS'www.essex.ac.uk'
+p364
+(dp365
+g3
+S'university-essex'
+p366
+sg5
+VWivenhoe Park\u000aColchester\u000aEssex\u000aUnited Kingdom
+p367
+ssS'www.jhu.edu'
+p368
+(dp369
+g3
+S'johns-hopkins-university'
+p370
+sg5
+VBaltimore\u000aMD\u000aUnited States
+p371
+ssS'www.nthu.edu.tw'
+p372
+(dp373
+g3
+S'national-tsing-hua-university'
+p374
+sg5
+V101 Section 2 Kuang Fu Road\u000aHsinchu\u000aTaiwan
+p375
+ssS'www.northwestern.edu'
+p376
+(dp377
+g3
+S'northwestern-university'
+p378
+sg5
+V633 Clark Street\u000aEvanston\u000aIL\u000aUnited States
+p379
+ssS'www.metu.edu.tr/'
+p380
+(dp381
+g3
+S'middle-east-technical-university'
+p382
+sg5
+VInonu Boulvard 06531\u000aAnkara\u000aTurkey
+p383
+ssS'www.uba.ar'
+p384
+(dp385
+g3
+S'universidad-de-buenos-aires'
+p386
+sg5
+VViamonte 430\u000aBuenos Aires\u000aArgentina
+p387
+ssS'www.ub.edu'
+p388
+(dp389
+g3
+S'university-barcelona'
+p390
+sg5
+VGran Via Corts Catalanes, 585\u000aBarcelona\u000aSpain
+p391
+ssS'www.unimi.it'
+p392
+(dp393
+g3
+S'university-milano'
+p394
+sg5
+Vvia Festa del Perdono 7\u000aMilano \u000aItaly
+p395
+ssS'www.asu.edu'
+p396
+(dp397
+g3
+S'arizona-state-university'
+p398
+sg5
+VUniversity Drive and Mill Avenue\u000aTempe\u000aAZ\u000aUnited States
+p399
+ssS'www.umd.edu'
+p400
+(dp401
+g3
+S'university-maryland-college-park'
+p402
+sg5
+VCollege Park\u000aMD\u000aUnited States
+p403
+ssS'www.ufrj.br'
+p404
+(dp405
+g3
+S'universidade-federal-do-rio-de-janeiro'
+p406
+sg5
+VAvenida Pedro Calmon, 550\u000aRio de Janeiro\u000aBrazil
+p407
+ssS'www.manchester.ac.uk'
+p408
+(dp409
+g3
+S'university-manchester'
+p410
+sg5
+VOxford Road\u000aManchester\u000aUnited Kingdom
+p411
+ssS'www.nyu.edu'
+p412
+(dp413
+g3
+S'new-york-university-nyu'
+p414
+sg5
+V70 Washington Square South, 12S \u000aNew York\u000aNY\u000aUnited States
+p415
+ssS'www.iit.edu'
+p416
+(dp417
+g3
+S'illinois-institute-technology'
+p418
+sg5
+V3300 South Federal Street\u000aChicago\u000aIL\u000aUnited States
+p419
+ssS'www.newcastle.edu.au'
+p420
+(dp421
+g3
+S'university-newcastle'
+p422
+sg5
+VUniversity Drive\u000aCallaghan\u000aNSW\u000aAustralia
+p423
+ssS'www.kyoto-u.ac.jp'
+p424
+(dp425
+g3
+S'kyoto-university'
+p426
+sg5
+VYoshida-Honmachi\u000aSakyo-ku\u000aKyoto\u000aJapan
+p427
+ssS'www.uniroma1.it'
+p428
+(dp429
+g3
+S'sapienza-university-rome'
+p430
+sg5
+VPiazzale Aldo Moro 5\u000aRoma\u000aItaly
+p431
+ssS'www.unm.edu'
+p432
+(dp433
+g3
+S'university-new-mexico'
+p434
+sg5
+VAlbuquerque\u000aNM\u000aUnited States
+p435
+ssS'www.ucla.edu'
+p436
+(dp437
+g3
+S'university-california-los-angeles-ucla'
+p438
+sg5
+V405 Hilgard Avenue\u000aLos Angeles\u000aCA\u000aUnited States
+p439
+ssS'www.unipd.it'
+p440
+(dp441
+g3
+S'university-padua'
+p442
+sg5
+VVia 8 Febbraio, 2\u000aPadua\u000aItaly
+p443
+ssS'www.columbia.edu'
+p444
+(dp445
+g3
+S'columbia-university'
+p446
+sg5
+V2960 Broadway\u000aNew York\u000aNY\u000aUnited States
+p447
+ssS'www.wisc.edu'
+p448
+(dp449
+g3
+S'university-wisconsin-madison'
+p450
+sg5
+V500 Lincoln Drive\u000aMadison\u000aWI\u000aUnited States
+p451
+ssS'www.ui.ac.id'
+p452
+(dp453
+g3
+S'university-indonesia'
+p454
+sg5
+VKampus UI \u000aDepok\u000aIndonesia
+p455
+ssS'www.strath.ac.uk'
+p456
+(dp457
+g3
+S'university-strathclyde'
+p458
+sg5
+V16 Richmond Street\u000aGlasgow\u000aUnited Kingdom
+p459
+ssS'www.wsu.edu'
+p460
+(dp461
+g3
+S'washington-state-university'
+p462
+sg5
+VPO Box 641067\u000aPullman\u000aWA \u000aUnited States\u000aSpokane WA Campus\u000a412 East Spokane Falls Boulevard\u000aPO Box 1495\u000aSpokane\u000aWA\u000aUnited States\u000aTri-Cities, WA Campus (Richland, Kennewick, Pasco)\u000a2710 University Drive\u000aRichland\u000aWA\u000aUnited States\u000aVancouver, WA Campus\u000a14204 NE Salmon Creek Avenue\u000aVancouver\u000aWA\u000aUnited States
+p463
+ssS'www.cuni.cz'
+p464
+(dp465
+g3
+S'charles-university'
+p466
+sg5
+VInformation and Advisory \u000aCeletn 13\u000aPraha 1\u000aCzech Republic
+p467
+ssS'www.ncl.ac.uk'
+p468
+(dp469
+g3
+S'newcastle-university'
+p470
+sg5
+VNewcastle upon Tyne\u000aTyne and Wear\u000aUnited Kingdom
+p471
+ssS'www.fudan.edu.cn'
+p472
+(dp473
+g3
+S'fudan-university'
+p474
+sg5
+V220 Handan Road, Yang Pu\u000aShanghai\u000aChina
+p475
+ssS'www.sut.ac.jp'
+p476
+(dp477
+g3
+S'tokyo-university-science-tus'
+p478
+sg5
+V1-3 Kagurazaka\u000aShinjyuku-ku\u000aTokyo\u000aJapan
+p479
+ssS'www.ugm.ac.id'
+p480
+(dp481
+g3
+S'universitas-gadjah-mada'
+p482
+sg5
+VSekip Utara \u000aBulaksumur\u000aJogjakarta\u000aIndonesia
+p483
+ssS'www.iitd.ernet.in'
+p484
+(dp485
+g3
+S'indian-institute-technology-delhi-iitd'
+p486
+sg5
+VHauz Khas\u000aNew Delhi\u000aIndia
+p487
+ssS'www.swan.ac.uk'
+p488
+(dp489
+g3
+S'swansea-university'
+p490
+sg5
+VSingleton Park\u000aSwansea\u000aUnited Kingdom
+p491
+ssS'www.vub.ac.be'
+p492
+(dp493
+g3
+S'vrije-universiteit-brussel-vub'
+p494
+sg5
+VPleinlaan 2\u000aElsene\u000aBelgium
+p495
+ssS'www.uchicago.edu'
+p496
+(dp497
+g3
+S'university-chicago'
+p498
+sg5
+V5801 South Ellis Avenue\u000aChicago\u000aIL\u000aUnited States
+p499
+ssS'www.case.edu'
+p500
+(dp501
+g3
+S'case-western-reserve-university'
+p502
+sg5
+VCleveland\u000aOH\u000aUnited States
+p503
+ssS'www.ulg.ac.be'
+p504
+(dp505
+g3
+S'university-liege'
+p506
+sg5
+VPlace du 20-Aout, 7 (Bat. A1) Lige B-4000\u000aAvenue de Longwy, 185 Arlon B-6700\u000aPassage des Dports, 2 Gembloux B-5030\u000a Liege\u000aBelgium\u000aGembloux Agro-Bio Tech Campus\u000aPassage des Deportes, 2\u000aGembloux\u000aBelgium
+p507
+ssS'www.bath.ac.uk'
+p508
+(dp509
+g3
+S'university-bath'
+p510
+sg5
+VBath\u000aUnited Kingdom
+p511
+ssS'www.uic.edu'
+p512
+(dp513
+g3
+S'university-illinois-chicago-uic'
+p514
+sg5
+VBox 5220\u000aChicago\u000aIL\u000aUnited States
+p515
+ssS'www.uc.pt'
+p516
+(dp517
+g3
+S'university-coimbra'
+p518
+sg5
+VPalcio dos Grilos\u000aCoimbra\u000aPortugal
+p519
+ssS'www.bristol.ac.uk'
+p520
+(dp521
+g3
+S'university-bristol'
+p522
+sg5
+VSenate House, Tyndall Avenue\u000aBristol\u000aUnited Kingdom
+p523
+ssS'www.uow.edu.au'
+p524
+(dp525
+g3
+S'university-wollongong'
+p526
+sg5
+VNorthfields Ave\u000aWollongong\u000aNSW \u000aAustralia
+p527
+ssS'www.gla.ac.uk'
+p528
+(dp529
+g3
+S'university-glasgow'
+p530
+sg5
+VUniversity Avenue\u000aGlasgow\u000aGlasgow\u000aUnited Kingdom
+p531
+ssS'www.au.dk'
+p532
+(dp533
+g3
+S'aarhus-university'
+p534
+sg5
+VNordre Ringgade 1\u000aAarhus C\u000aAarhus\u000aDenmark
+p535
+ssS'www.pusan.ac.kr'
+p536
+(dp537
+g3
+S'pusan-national-university'
+p538
+sg5
+V30 \u000aJangjeon-dong\u000aGeumjeong-gu\u000aBusan\u000aKorea, South
+p539
+ssS'www.ku.dk'
+p540
+(dp541
+g3
+S'university-copenhagen'
+p542
+sg5
+VNoerregade 10\u000aCopenhagen K\u000aDenmark
+p543
+ssS'www.soton.ac.uk'
+p544
+(dp545
+g3
+S'university-southampton'
+p546
+sg5
+VUniversity Road\u000aSouthampton\u000aSouthampton\u000aUnited Kingdom
+p547
+ssS'www.auth.gr'
+p548
+(dp549
+g3
+S'aristotle-university-thessaloniki'
+p550
+sg5
+VThessaloniki\u000aGreece
+p551
+ssS'www3.lehigh.edu'
+p552
+(dp553
+g3
+S'lehigh-university'
+p554
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p555
+ssS'www.cf.ac.uk'
+p556
+(dp557
+g3
+S'cardiff-university'
+p558
+sg5
+VCardiff\u000aWales\u000aUnited Kingdom
+p559
+ssS'www.ntua.gr'
+p560
+(dp561
+g3
+S'national-technical-university-athens'
+p562
+sg5
+VIroon Polytexneiou 9,\u000aZografou\u000aGreece
+p563
+ssS'www.ucl.ac.uk'
+p564
+(dp565
+g3
+S'ucl-university-college-london'
+p566
+sg5
+VGower Street\u000a London\u000aUnited Kingdom
+p567
+ssS'www.ucc.ie'
+p568
+(dp569
+g3
+S'university-college-cork'
+p570
+sg5
+VWestern Road\u000aCork\u000aIreland
+p571
+ssS'www.ucm.es'
+p572
+(dp573
+g3
+S'university-complutense-madrid'
+p574
+sg5
+VCiudad Universitaria\u000aMadrid\u000aSpain
+p575
+ssS'www.princeton.edu'
+p576
+(dp577
+g3
+S'princeton-university'
+p578
+sg5
+VPrinceton\u000aNJ\u000aUnited States
+p579
+ssS'www.ethz.ch'
+p580
+(dp581
+g3
+S'eth-zurich-swiss-federal-institute-technology'
+p582
+sg5
+VRaemistrasse 101\u000aZrich\u000aSwitzerland
+p583
+ssS'www.utoronto.ca'
+p584
+(dp585
+g3
+S'university-toronto'
+p586
+sg5
+VToronto\u000aOntario\u000aCanada
+p587
+ssS'www.liv.ac.uk'
+p588
+(dp589
+g3
+S'university-liverpool'
+p590
+sg5
+VLiverpool\u000aLiverpool\u000aUnited Kingdom
+p591
+ssS'www.chalmers.se'
+p592
+(dp593
+g3
+S'chalmers-university-technology'
+p594
+sg5
+VGteborg\u000aSweden
+p595
+ssS'www.arizona.edu'
+p596
+(dp597
+g3
+S'university-arizona'
+p598
+sg5
+VTucson\u000aAZ\u000aUnited States
+p599
+ssS'www.nus.edu.sg'
+p600
+(dp601
+g3
+S'national-university-singapore-nus'
+p602
+sg5
+V21 Lower Kent Ridge Road\u000aSingapore\u000aSingapore
+p603
+ssS'www.tcd.ie'
+p604
+(dp605
+g3
+S'trinity-college-dublin'
+p606
+sg5
+VCollege Green\u000aDublin 2\u000aIreland
+p607
+ssS'www.uts.edu.au/international'
+p608
+(dp609
+g3
+S'university-technology-sydney'
+p610
+sg5
+VUTS International\u000aPO Box 123\u000aBroadway\u000aNSW \u000aAustralia
+p611
+ssS'www.cmu.edu'
+p612
+(dp613
+g3
+S'carnegie-mellon-university'
+p614
+sg5
+V5000 Forbes Avenue\u000aPittsburgh\u000aPA\u000aUnited States
+p615
+ssS'www.usm.my'
+p616
+(dp617
+g3
+S'universiti-sains-malaysia-usm'
+p618
+sg5
+VPulau Pinang\u000aMalaysia
+p619
+ssS'www.harvard.edu'
+p620
+(dp621
+g3
+S'harvard-university'
+p622
+sg5
+V1350 Massachusetts Ave\u000aCambridge\u000aMA\u000aUnited States
+p623
+ssS'w3.tm.tue.nl'
+p624
+(dp625
+g3
+S'eindhoven-university-technology'
+p626
+sg5
+VDen Dolech 2\u000aEindhoven\u000aNetherlands
+p627
+ssS'www.up.pt'
+p628
+(dp629
+g3
+S'university-porto'
+p630
+sg5
+VPraa Gomes Teixeira\u000aPorto\u000aPortugal
+p631
+ssS'www.ucalgary.ca'
+p632
+(dp633
+g3
+S'university-calgary'
+p634
+sg5
+V2500 University Drive NW\u000aCalgary\u000a Alberta\u000aCanada
+p635
+ssS'www.postech.ac.kr'
+p636
+(dp637
+g3
+S'pohang-university-science-and-technology-postech'
+p638
+sg5
+VSan 31\u000aHyoja-dong\u000aNam-gu\u000aPohang \u000aKorea, South
+p639
+ssS'www.umn.edu'
+p640
+(dp641
+g3
+S'university-minnesota'
+p642
+sg5
+V240 Williamson Hall,231 Pillsbury Drive S.E.\u000aMinneapolis\u000aMN \u000aUnited States
+p643
+ssS'www.qub.ac.uk'
+p644
+(dp645
+g3
+S'queens-university-belfast'
+p646
+sg5
+VUniversity Road\u000aBelfast\u000aNorthern Ireland\u000aUnited Kingdom
+p647
+ssS'www.cityu.edu.hk'
+p648
+(dp649
+g3
+S'city-university-hong-kong'
+p650
+sg5
+VTat Chee Avenue, Kowloon\u000aHong Kong SAR\u000aHong Kong
+p651
+ssS'www.umass.edu'
+p652
+(dp653
+g3
+S'university-massachusetts-amherst'
+p654
+sg5
+VAmherst\u000aMA\u000aUnited States
+p655
+ssS'www.unicamp.br'
+p656
+(dp657
+g3
+S'universidade-estadual-de-campinas-unicamp'
+p658
+sg5
+VCidade Universitaria Zeferino Vaz\u000aSao Paulo\u000aSao Paulo\u000aBrazil
+p659
+ssS'www.rice.edu'
+p660
+(dp661
+g3
+S'rice-university'
+p662
+sg5
+V6100 Main\u000aHouston\u000aTX\u000aUnited States
+p663
+ssS'www.cranfield.ac.uk'
+p664
+(dp665
+g3
+S'cranfield-university'
+p666
+sg5
+VCranfield\u000aBedfordshire\u000aUnited Kingdom
+p667
+ssS'www.rutgers.edu'
+p668
+(dp669
+g3
+S'rutgers-state-university-new-jersey-new-brunswick'
+p670
+sg5
+V18 Bishop Place\u000aNew Brunswick\u000aNJ \u000aUnited States
+p671
+ssS'www.mcmaster.ca'
+p672
+(dp673
+g3
+S'mcmaster-university'
+p674
+sg5
+V1280 Main St W\u000aHamilton\u000aOntario\u000aCanada
+p675
+ssS'www.ucdavis.edu'
+p676
+(dp677
+g3
+S'university-california-davis'
+p678
+sg5
+VOne Shields Avenue\u000aDavis\u000aCA\u000aUnited States
+p679
+ssS'www.ufl.edu'
+p680
+(dp681
+g3
+S'university-florida'
+p682
+sg5
+VGainesville\u000aFL\u000aUnited States
+p683
+ssS'www.abdn.ac.uk'
+p684
+(dp685
+g3
+S'university-aberdeen'
+p686
+sg5
+VAberdeen\u000aUnited Kingdom
+p687
+ssS'www.sfu.ca'
+p688
+(dp689
+g3
+S'simon-fraser-university'
+p690
+sg5
+V8888 University Drive\u000aBurnaby\u000aCanada
+p691
+ssS'www.itb.ac.id'
+p692
+(dp693
+g3
+S'bandung-institute-technology-itb'
+p694
+sg5
+VJalan Cikapayan 15\u000aBandung\u000aJawa Barat\u000aIndonesia
+p695
+ssS'www.ucd.ie'
+p696
+(dp697
+g3
+S'university-college-dublin'
+p698
+sg5
+VBelfield\u000aDublin 4\u000aIreland
+p699
+ssS'www.unitn.it'
+p700
+(dp701
+g3
+S'university-trento'
+p702
+sg5
+VVia Belenzani, 12\u000aTrento\u000aItaly
+p703
+ssS'www.uottawa.ca'
+p704
+(dp705
+g3
+S'university-ottawa'
+p706
+sg5
+VTabaret Hall\u000a550 Cumberland\u000aOttawa\u000aOntario\u000aCanada
+p707
+ssS'www.adelaide.edu.au'
+p708
+(dp709
+g3
+S'university-adelaide'
+p710
+sg5
+VAdelaide\u000aSA\u000aAustralia
+p711
+ssS'www.caltech.edu'
+p712
+(dp713
+g3
+S'california-institute-technology-caltech'
+p714
+sg5
+V1200 East California Boulevard\u000aPasadena\u000aCA\u000aUnited States
+p715
+ssS'www.lboro.ac.uk'
+p716
+(dp717
+g3
+S'loughborough-university'
+p718
+sg5
+VLoughborough\u000aLeicestershire\u000aUnited Kingdom
+p719
+ssS'www.gatech.edu'
+p720
+(dp721
+g3
+S'georgia-institute-technology'
+p722
+sg5
+VAtlanta\u000aGA\u000aUnited States
+p723
+ssS'www.huji.ac.il'
+p724
+(dp725
+g3
+S'hebrew-university-jerusalem'
+p726
+sg5
+VMount Scopus\u000aJerusalem\u000aJerusalem\u000aIsrael
+p727
+ssS'www.unimelb.edu.au'
+p728
+(dp729
+g3
+S'university-melbourne'
+p730
+sg5
+VRichard Berry Building\u000aParkville\u000aVIC\u000aAustralia
+p731
+ssS'www.kobe-u.ac.jp'
+p732
+(dp733
+g3
+S'kobe-university'
+p734
+sg5
+V1-1 Rokkodai\u000aNada-ku\u000aKobe\u000aHyogo\u000aJapan
+p735
+ssS'www.lunduniversity.lu.se'
+p736
+(dp737
+g3
+S'lund-university'
+p738
+sg5
+VParadisgatan 2\u000aLund\u000aSweden
+p739
+ssS'www.bgu.ac.il'
+p740
+(dp741
+g3
+S'ben-gurion-university-negev'
+p742
+sg5
+VP.O. Box 653\u000aBe'er Sheva\u000aIsrael\u000aMarcus Family Campus\u000aBeer Sheva\u000aIsrael\u000aTuviyahu Campus\u000aBeer Sheva\u000aIsrael\u000aEilat Campus\u000aEilat\u000aIsrael
+p743
+ssS'www.tamu.edu'
+p744
+(dp745
+g3
+S'texas-am-university'
+p746
+sg5
+VCollege Station\u000aTX\u000aUnited States
+p747
+ssS'www.ukm.my'
+p748
+(dp749
+g3
+S'universiti-kebangsaan-malaysia-ukm'
+p750
+sg5
+VSelangor Darul Ehsan\u000aUKM Bangi\u000aSelangor\u000aMalaysia
+p751
+ssS'www.unisa.edu.au'
+p752
+(dp753
+g3
+S'university-south-australia'
+p754
+sg5
+VGPO Box 2471\u000aAdelaide\u000aSA\u000aAustralia
+p755
+ssS'www.stanford.edu'
+p756
+(dp757
+g3
+S'stanford-university'
+p758
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p759
+ssS'www.rpi.edu'
+p760
+(dp761
+g3
+S'rensselaer-polytechnic-institute'
+p762
+sg5
+V110 8th St.\u000aTroy\u000aNY\u000aUnited States
+p763
+ssS'www.hust.edu.cn'
+p764
+(dp765
+g3
+S'huazhong-university-science-and-technology'
+p766
+sg5
+V1037 Luo Yu Road\u000aWuhan\u000aHubei Province\u000aChina
+p767
+ssS'www.uva.nl/start.cfm/la=en?utm_source=topuniversities&utm_medium=link%2Bon%20profile%20page&utm_campaign=topuniversities.com'
+p768
+(dp769
+g3
+S'university-amsterdam'
+p770
+sg5
+VVisiting address:\u000aSpui 21\u000a1012 WX\u000aAmsterdam\u000aAmsterdam\u000aNetherlands
+p771
+ssS'www3.imperial.ac.uk'
+p772
+(dp773
+g3
+S'imperial-college-london'
+p774
+sg5
+VSouth Kensington Campus\u000aLondon\u000aUnited Kingdom
+p775
+ssS'www.tudelft.nl'
+p776
+(dp777
+g3
+S'delft-university-technology'
+p778
+sg5
+VStevinweg 1\u000aDelft\u000aNetherlands
+p779
+ssS'ad-apac.doubleclick.net/clk;228199345;52113155;f'
+p780
+(dp781
+g3
+S'university-surrey'
+p782
+sg5
+VGuildford\u000aSurrey\u000aUnited Kingdom\u000aUniversity of Surrey\u000aStag Hill Campus\u000aGuildford\u000aSurrey\u000aUnited Kingdom
+p783
+ssS'www.tkk.fi'
+p784
+(dp785
+g3
+S'aalto-university'
+p786
+sg5
+VVisiting address:\u000aOtakaari 1\u000aEspoo\u000aFinland
+p787
+ssS'www.virginia.edu'
+p788
+(dp789
+g3
+S'university-virginia'
+p790
+sg5
+VP.O. Box 400132\u000aCharlottesville\u000aVA \u000aUnited States
+p791
+ssS'www.uq.edu.au'
+p792
+(dp793
+g3
+S'university-queensland'
+p794
+sg5
+VSt Lucia campus\u000aBrisbane\u000aQLD\u000aAustralia
+p795
+ssS'www.itu.edu.tr'
+p796
+(dp797
+g3
+S'istanbul-technical-university'
+p798
+sg5
+VStudent Affairs\u000aT Ayazaa Kamps 34469\u000aMaslak-Istanbul\u000aTurkey
+p799
+ssS'www.polimi.it'
+p800
+(dp801
+g3
+S'politecnico-di-milano'
+p802
+sg5
+VPiazza Leonardo Da Vinci, 32\u000aMilan\u000aItaly
+p803
+ssS'www.iitk.ac.in'
+p804
+(dp805
+g3
+S'indian-institute-technology-kanpur-iitk'
+p806
+sg5
+VP.O. IIT Kanpur\u000aKanpur\u000aUttar Pradesh\u000aIndia
+p807
+ssS'www.bilkent.edu.tr'
+p808
+(dp809
+g3
+S'bilkent-university'
+p810
+sg5
+VBilkent, Ankara\u000aTurkey
+p811
+ssS'www.iisc.ernet.in'
+p812
+(dp813
+g3
+S'indian-institute-science'
+p814
+sg5
+VBangalore\u000aIndia
+p815
+ssS'www.oulu.fi/english'
+p816
+(dp817
+g3
+S'university-oulu'
+p818
+sg5
+VPentti Kaiteran katu 1,\u000aOulun Yliopisto\u000aFinland
+p819
+ssS'www.nagoya-u.ac.jp'
+p820
+(dp821
+g3
+S'nagoya-university'
+p822
+sg5
+VFuro-cho, Chikusa-ku\u000aNagoya\u000aAichi Prefecture\u000aJapan
+p823
+ssS'www.uci.edu'
+p824
+(dp825
+g3
+S'university-california-irvine'
+p826
+sg5
+VP.O. Box 6050\u000aIrvine\u000aCA\u000aUnited States
+p827
+ssS'www.kuleuven.ac.be'
+p828
+(dp829
+g3
+S'katholieke-universiteit-leuven'
+p830
+sg5
+VOude Markt 13\u000aLeuven\u000aBelgium
+p831
+ssS'www.ncsu.edu'
+p832
+(dp833
+g3
+S'north-carolina-state-university'
+p834
+sg5
+VRaleigh\u000aNC\u000aUnited States
+p835
+ssS'www.ugent.be'
+p836
+(dp837
+g3
+S'university-ghent'
+p838
+sg5
+VSint-Pietersnieuwstraat 25\u000aGhent\u000aBelgium
+p839
+ssS'www.isi.edu'
+p840
+(dp841
+S'name'
+p842
+S'ISI University'
+p843
+sS'addr'
+p844
+S'Waterloo, Canada'
+p845
+ssS'www.qmul.ac.uk'
+p846
+(dp847
+g3
+S'university-southern-california'
+p848
+sg5
+VLos Angeles\u000aUnited States
+p849
+ssS'www.sjtu.edu.cn'
+p850
+(dp851
+g3
+S'shanghai-jiao-tong-university'
+p852
+sg5
+V800 Dong Chuan Road\u000aShanghai\u000aChina
+p853
+ssS'www.xjtu.edu.cn'
+p854
+(dp855
+g3
+S'xian-jiaotong-university'
+p856
+sg5
+VNo. 28 Xian Ning West Road\u000aXi'an\u000aShaanxi\u000aChina
+p857
+ssS'www.cam.ac.uk'
+p858
+(dp859
+g3
+S'university-cambridge'
+p860
+sg5
+VTrinity Lane\u000aCambridge\u000aUnited Kingdom
+p861
+ssS'en.aau.dk'
+p862
+(dp863
+g3
+S'aalborg-university'
+p864
+sg5
+VFredrik Bajers Vej 5\u000aAalborg \u000aDenmark
+p865
+ssS'www.bham.ac.uk'
+p866
+(dp867
+g3
+S'university-birmingham'
+p868
+sg5
+VEdgbaston\u000aBirmingham\u000aBirmingham\u000aUnited Kingdom
+p869
+ssS'www.brown.edu'
+p870
+(dp871
+g3
+S'brown-university'
+p872
+sg5
+VProvidence\u000aRI\u000aUnited States
+p873
+ssS'www.utwente.nl'
+p874
+(dp875
+g3
+S'university-twente'
+p876
+sg5
+VDrienerlolaan 5\u000aEnschede\u000aNetherlands
+p877
+ssS'www.umontreal.ca'
+p878
+(dp879
+g3
+S'universite-de-montreal'
+p880
+sg5
+VC.P. 6128, succursale Centre-ville\u000aMontreal\u000aQuebec\u000aCanada
+p881
+ssS'www.zju.edu.cn'
+p882
+(dp883
+g3
+S'zhejiang-university'
+p884
+sg5
+VNo. 388 Yuhangtang Road\u000aHangzhou\u000aZhejiang\u000aChina
+p885
+ssS'www.unibo.it'
+p886
+(dp887
+g3
+S'university-bologna'
+p888
+sg5
+VVia Zamboni, 33\u000aBologna\u000aItaly\u000aPolo Scientifico - Didattico di Ravenna\u000aVia Baccarini, 27\u000aRavenna\u000aItaly\u000aPolo Scientifico - Didattico di Forl\u000aCorso A. Diaz, 45\u000aForl\u000aItaly\u000aPolo Scientifico - Didattico di Cesena\u000aVia Montalti, 6\u000aCesena\u000aItaly\u000aPolo Scientifico - Didattico di Rimini\u000aVia Cattaneo, 17\u000aRimini\u000aItaly\u000aRepresentacion en Buenos Aires\u000aBuenos Aires\u000aArgentina
+p889
+ssS'www.ust.hk'
+p890
+(dp891
+g3
+S'hong-kong-university-science-and-technology'
+p892
+sg5
+VClear Water Bay, Kowloon\u000aHong Kong\u000aHong Kong
+p893
+ssS'www.ut.ac.ir'
+p894
+(dp895
+g3
+S'university-tehran'
+p896
+sg5
+V16 Azar Street\u000aEnghelab Ave\u000aTehran\u000aIran
+p897
+ssS'www2.warwick.ac.uk'
+p898
+(dp899
+g3
+S'university-warwick'
+p900
+sg5
+VCoventry\u000aUnited Kingdom
+p901
+ssS'www.ucsd.edu'
+p902
+(dp903
+g3
+S'university-california-san-diego-ucsd'
+p904
+sg5
+V9500 Gilman Drive\u000aLa Jolla\u000aCA\u000aUnited States
+p905
+ssS'www.ustc.edu.cn'
+p906
+(dp907
+g3
+S'university-science-and-technology-china'
+p908
+sg5
+VNo. 96Jinzhai Road\u000aHefei\u000aAnHui\u000aChina
+p909
+ssS'www.osaka-u.ac.jp'
+p910
+(dp911
+g3
+S'osaka-university'
+p912
+sg5
+V1-1 Yamadaoka, Suita\u000aOsaka\u000aJapan
+p913
+ssS'www.hku.hk'
+p914
+(dp915
+g3
+S'university-hong-kong'
+p916
+sg5
+VPok Fu Lam Road\u000aHong Kong\u000aHong Kong
+p917
+ssS'www.iitkgp.ac.in'
+p918
+(dp919
+g3
+S'indian-institute-technology-kharagpur-iitkgp'
+p920
+sg5
+VKharagpur\u000aIndia
+p921
+ssS'www.yonsei.ac.kr'
+p922
+(dp923
+g3
+S'yonsei-university'
+p924
+sg5
+V262 \u000aSeongsanno\u000aSeodaemun-gu\u000aSeoul\u000aKorea, South
+p925
+ssS'en.hit.edu.cn/'
+p926
+(dp927
+g3
+S'harbin-institute-technology'
+p928
+sg5
+VNo.92 West Da-Zhi Street\u000aNan Gang District\u000aHarbin\u000aHeilongjiang \u000aChina
+p929
+ssS'www.purdue.edu'
+p930
+(dp931
+g3
+S'purdue-university'
+p932
+sg5
+V1080 Schleman Hall\u000aWest Lafayette\u000aIN\u000aUnited States
+p933
+ssS'www.pitt.edu'
+p934
+(dp935
+g3
+S'university-pittsburgh'
+p936
+sg5
+VPittsburgh\u000aPA\u000aUnited States
+p937
+ssS'www.tuwien.ac.at'
+p938
+(dp939
+g3
+S'vienna-university-technology'
+p940
+sg5
+VKarlsplatz 13\u000aVienna\u000aAustria
+p941
+ssS'www.upenn.edu'
+p942
+(dp943
+g3
+S'university-pennsylvania'
+p944
+sg5
+V3451 Walnut Street\u000aPhiladelphia\u000aPA\u000aUnited States
+p945
+ssS'www.colorado.edu'
+p946
+(dp947
+S'name'
+p948
+S'Colorado University'
+p949
+sS'addr'
+p950
+S'Colorado, USA'
+p951
+ssS'www.msu.edu'
+p952
+(dp953
+g3
+S'michigan-state-university'
+p954
+sg5
+VEast Lansing\u000aMI\u000aUnited States
+p955
+ssS'www.titech.ac.jp'
+p956
+(dp957
+g3
+S'tokyo-institute-technology'
+p958
+sg5
+V2-12-1 Ookayama\u000aTokyo\u000aMeguro-ku\u000aJapan
+p959
+ssS'www.bu.edu'
+p960
+(dp961
+g3
+S'boston-university'
+p962
+sg5
+VOne Silber Way\u000aBoston\u000aMA\u000aUnited States
+p963
+ss.

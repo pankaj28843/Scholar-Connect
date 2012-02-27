@@ -1,0 +1,3183 @@
+(dp0
+S'Chao Liu'
+p1
+(dp2
+S'domain'
+p3
+S'www3.lehigh.edu'
+p4
+sS'university'
+p5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p6
+sS'location'
+p7
+S'lehigh-university'
+p8
+sS'image'
+p9
+S'ChaoLIU.jpg'
+p10
+sS'address'
+p11
+g8
+sS'hmpage'
+p12
+S'http://www.lehigh.edu/~dmf206/students.html'
+p13
+ssS'Hanqiang Cheng'
+p14
+(dp15
+g3
+S'www.mcgill.ca'
+p16
+sg5
+V845 Sherbrooke Street West\u000aMontreal\u000aQuebec\u000aCanada
+p17
+sg7
+S'mcgill-university'
+p18
+sg9
+S'medium_picture_88_01.png'
+p19
+sg11
+g18
+sg12
+S'http://www.cs.mcgill.ca/~xueliu/'
+p20
+ssS'Shaomei Wu'
+p21
+(dp22
+g3
+S'www.cornell.edu'
+p23
+sg5
+VDay Hall Lobby\u000aIthaca\u000aNY\u000aUnited States
+p24
+sg7
+S'cornell-university'
+p25
+sg9
+S'shaomeiwu.jpg'
+p26
+sg11
+g25
+sg12
+S'http://www.cs.cornell.edu/~sw475/'
+p27
+ssS'Kumaresh Pattabiraman'
+p28
+(dp29
+g3
+S'www.uiuc.edu'
+p30
+sg5
+S'Illinois, chicago, USA'
+p31
+sg7
+S'University of Illinois Urbana'
+p32
+sg9
+S'1beaf58.jpg'
+p33
+sg11
+g32
+sg12
+S'http://charm.cs.uiuc.edu/workshops/charmWorkshop2008/slides.html'
+p34
+ssS'ChengXiang Zhai'
+p35
+(dp36
+g3
+g30
+sg5
+g31
+sg7
+g32
+sg9
+S'zhai.jpg'
+p37
+sg11
+g32
+sg12
+S'http://www-faculty.cs.uiuc.edu/~czhai/'
+p38
+ssS'Christian Seifert'
+p39
+(dp40
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p41
+sg7
+g8
+sg9
+S'christianseifert.jpg'
+p42
+sg11
+g8
+sg12
+S'http://www3.lehigh.edu/academics/catalog/html/coursesm2.html'
+p43
+ssS'Adila Krisnadhi'
+p44
+(dp45
+g3
+S'www.ui.ac.id'
+p46
+sg5
+VKampus UI \u000aDepok\u000aIndonesia
+p47
+sg7
+S'university-indonesia'
+p48
+sg9
+S'profpic.jpg'
+p49
+sg11
+g48
+sg12
+S'http://staff.blog.ui.ac.id/adila/'
+p50
+ssS'Lakshminarayanan Subramanian.'
+p51
+(dp52
+g3
+S'www.nyu.edu'
+p53
+sg5
+V70 Washington Square South, 12S \u000aNew York\u000aNY\u000aUnited States
+p54
+sg7
+S'new-york-university-nyu'
+p55
+sg9
+S'lakshmi.jpg'
+p56
+sg11
+g55
+sg12
+S'http://cs.nyu.edu/~lakshmi/'
+p57
+ssS'Anitha Kannan'
+p58
+(dp59
+g3
+S'www.toronto.edu'
+p60
+sg5
+S'Toronto, Canada'
+p61
+sg7
+S'University of toronto'
+p62
+sg9
+S'image002.jpg'
+p63
+sg11
+g62
+sg12
+S'http://genes.toronto.edu/?q=people'
+p64
+ssS'Kristina Lerman'
+p65
+(dp66
+g3
+S'www.isi.edu'
+p67
+sg5
+S'Waterloo, Canada'
+p68
+sg7
+S'ISI University'
+p69
+sg9
+S'lerman.jpg'
+p70
+sg11
+g69
+sg12
+S'http://www.isi.edu/integration/people/lerman/index.html'
+p71
+ssS'Russell Power'
+p72
+(dp73
+g3
+S'www.gatech.edu'
+p74
+sg5
+VAtlanta\u000aGA\u000aUnited States
+p75
+sg7
+S'georgia-institute-technology'
+p76
+sg9
+S'russell_power.jpg'
+p77
+sg11
+g76
+sg12
+S'http://www.ce.gatech.edu/people/faculty/411/overview'
+p78
+ssS'Sui Huang'
+p79
+(dp80
+g3
+S'www.ucalgary.ca'
+p81
+sg5
+V2500 University Drive NW\u000aCalgary\u000a Alberta\u000aCanada
+p82
+sg7
+S'university-calgary'
+p83
+sg9
+S'Sui.jpg'
+p84
+sg11
+g83
+sg12
+S'http://www.bio.ucalgary.ca/contact/faculty/huang.html'
+p85
+ssS'Songyun Duan'
+p86
+(dp87
+g3
+S'www.duke.edu'
+p88
+sg5
+V2138 Campus Drive\u000aBox 90586\u000aDurham\u000aNC\u000aUnited States
+p89
+sg7
+S'duke-university'
+p90
+sg9
+S'1473.jpg'
+p91
+sg11
+g90
+sg12
+S'http://www.cs.duke.edu/~shivnath/dotex.html'
+p92
+ssS'Kamesh Munagala'
+p93
+(dp94
+g3
+g88
+sg5
+V2138 Campus Drive\u000aBox 90586\u000aDurham\u000aNC\u000aUnited States
+p95
+sg7
+g90
+sg9
+S'kamesh2.jpg'
+p96
+sg11
+g90
+sg12
+S'http://www.cs.duke.edu/~kamesh/'
+p97
+ssS'Gui-Rong Xue'
+p98
+(dp99
+g3
+S'www.sjtu.edu.cn'
+p100
+sg5
+V800 Dong Chuan Road\u000aShanghai\u000aChina
+p101
+sg7
+S'shanghai-jiao-tong-university'
+p102
+sg9
+S'DSCF0453.JPG'
+p103
+sg11
+g102
+sg12
+S'http://www.cs.sjtu.edu.cn/people_detail.action?id=72'
+p104
+ssS'Fang Yu'
+p105
+(dp106
+g3
+S'www.columbia.edu'
+p107
+sg5
+V2960 Broadway\u000aNew York\u000aNY\u000aUnited States
+p108
+sg7
+S'columbia-university'
+p109
+sg9
+S'fang_yu.jpg'
+p110
+sg11
+g109
+sg12
+S'http://www.columbia.edu/cu/religion/faculty-data/chunfang-yu/faculty.html'
+p111
+ssS'Narayanan Sadagopan'
+p112
+(dp113
+g3
+S'www.ufl.edu'
+p114
+sg5
+VGainesville\u000aFL\u000aUnited States
+p115
+sg7
+S'university-florida'
+p116
+sg9
+S'NarayananSadagopan.jpg'
+p117
+sg11
+g116
+sg12
+S'http://nile.cise.ufl.edu/important/'
+p118
+ssS'Kai Li'
+p119
+(dp120
+g3
+S'www.ubc.ca'
+p121
+sg5
+V2329 West Mall\u000aVancouver\u000aCanada
+p122
+sg7
+S'university-british-columbia'
+p123
+sg9
+S'IMG_1316.jpg'
+p124
+sg11
+g123
+sg12
+S'http://finance.commerce.ubc.ca/~kaili/'
+p125
+ssS'Gholamreza Haffari'
+p126
+(dp127
+g3
+S'www.sfu.ca'
+p128
+sg5
+V8888 University Drive\u000aBurnaby\u000aCanada
+p129
+sg7
+S'simon-fraser-university'
+p130
+sg9
+S'reza_zohreh.jpg'
+p131
+sg11
+g130
+sg12
+S'http://natlang.cs.sfu.ca/people/lab-alumnae/'
+p132
+ssS'Ashwin Machanavajjhala'
+p133
+(dp134
+g3
+g23
+sg5
+VDay Hall Lobby\u000aIthaca\u000aNY\u000aUnited States
+p135
+sg7
+g25
+sg9
+S'mvnak.gif'
+p136
+sg11
+g25
+sg12
+S'http://www.cs.cornell.edu/~mvnak/'
+p137
+ssS'Andrei Broder'
+p138
+(dp139
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p140
+sg7
+g8
+sg9
+S'AndreiBroder.jpg'
+p141
+sg11
+g8
+sg12
+S'http://www.cse.lehigh.edu/~brian/course/webtechperf/readings5.html'
+p142
+ssS'Liviu Iftode'
+p143
+(dp144
+g3
+S'www.rutgers.edu'
+p145
+sg5
+V18 Bishop Place\u000aNew Brunswick\u000aNJ \u000aUnited States
+p146
+sg7
+S'rutgers-state-university-new-jersey-new-brunswick'
+p147
+sg9
+S'liviu.jpg'
+p148
+sg11
+g147
+sg12
+S'http://www.cs.rutgers.edu/~iftode/'
+p149
+ssS'Ceren Budak'
+p150
+(dp151
+g3
+S'www.ucsb.edu'
+p152
+sg5
+V3117 Cheadle Hall\u000aSanta Barbara\u000aCA\u000aUnited States
+p153
+sg7
+S'university-california-santa-barbara-ucsb'
+p154
+sg9
+S'pic_ceren.png'
+p155
+sg11
+g154
+sg12
+S'http://www.cs.ucsb.edu/~cbudak/?C=M;O=A'
+p156
+ssS'Vanja Josifovski'
+p157
+(dp158
+g3
+S'www.uu.se'
+p159
+sg5
+VP.O. Box 256\u000aUppsala\u000aUppsala\u000aSweden
+p160
+sg7
+S'uppsala-university'
+p161
+sg9
+S'vanja1.gif'
+p162
+sg11
+g161
+sg12
+S'http://user.it.uu.se/~vanjaj/papers/r/res.html'
+p163
+ssS'Christian Borgs'
+p164
+(dp165
+g3
+S'www.washington.edu'
+p166
+sg5
+VSeattle\u000aWA\u000aUnited States
+p167
+sg7
+S'university-washington'
+p168
+sg9
+S'Borgs.jpg'
+p169
+sg11
+g168
+sg12
+S'http://www.math.washington.edu/People/fac_individ.php?mathid=borgs555'
+p170
+ssS'Aless'
+p171
+(dp172
+g3
+S'www.u-tokyo.ac.jp'
+p173
+sg5
+V7-3-1\u000aHongo\u000aBunkyo-ku\u000aTokyo\u000aJapan
+p174
+sg7
+S'university-tokyo'
+p175
+sg9
+S'aless.jpg'
+p176
+sg11
+g175
+sg12
+S'http://aless.ecc.u-tokyo.ac.jp/'
+p177
+ssS'Marco Cova'
+p178
+(dp179
+g3
+g152
+sg5
+V3117 Cheadle Hall\u000aSanta Barbara\u000aCA\u000aUnited States
+p180
+sg7
+g154
+sg9
+S'marco_cova.jpg'
+p181
+sg11
+g154
+sg12
+S'http://www.cs.ucsb.edu/common/wordpress/?p=135'
+p182
+ssS'Jun YAN'
+p183
+(dp184
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p185
+sg7
+g8
+sg9
+S'_MG_2288.JPG'
+p186
+sg11
+g8
+sg12
+S'http://www.lehigh.edu/library/speccoll/project_237.html'
+p187
+ssS'Divyakant Agrawal'
+p188
+(dp189
+g3
+g152
+sg5
+V3117 Cheadle Hall\u000aSanta Barbara\u000aCA\u000aUnited States
+p190
+sg7
+g154
+sg9
+S'agrawal.jpg'
+p191
+sg11
+g154
+sg12
+S'http://www.cs.ucsb.edu/~agrawal/'
+p192
+ssS'Jianxun Dang'
+p193
+(dp194
+g3
+g16
+sg5
+V845 Sherbrooke Street West\u000aMontreal\u000aQuebec\u000aCanada
+p195
+sg7
+g18
+sg9
+S'photo_1.jpg'
+p196
+sg11
+g18
+sg12
+S'http://www.cs.mcgill.ca/~jdang/'
+p197
+ssS'Carl Lagoze'
+p198
+(dp199
+g3
+g23
+sg5
+VDay Hall Lobby\u000aIthaca\u000aNY\u000aUnited States
+p200
+sg7
+g25
+sg9
+S'blog_lagoze.jpg'
+p201
+sg11
+g25
+sg12
+S'http://www.cs.cornell.edu/lagoze/'
+p202
+ssS'Michael Welch'
+p203
+(dp204
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p205
+sg7
+g8
+sg9
+S'michael_welch_05.jpg'
+p206
+sg11
+g8
+sg12
+S'http://www3.lehigh.edu/academics/catalog/html/coursese2.html'
+p207
+ssS'Yu-li Liang'
+p208
+(dp209
+g3
+S'www.ntu.edu.sg'
+p210
+sg5
+V50 Nanyang Avenue\u000aSingapore\u000aSingapore
+p211
+sg7
+S'nanyang-technological-university-ntu'
+p212
+sg9
+S'medium_picture_88_01.png'
+p213
+sg11
+g212
+sg12
+S'http://www3.ntu.edu.sg/sbs/staff/jml/jmli_profile.htm'
+p214
+ssS'Xuanhui Wang'
+p215
+(dp216
+g3
+g30
+sg5
+g31
+sg7
+g32
+sg9
+S'me.JPG'
+p217
+sg11
+g32
+sg12
+S'http://sifaka.cs.uiuc.edu/~xwang20/'
+p218
+ssS'Aurelien Francillon'
+p219
+(dp220
+g3
+S'www.ethz.ch'
+p221
+sg5
+VRaemistrasse 101\u000aZrich\u000aSwitzerland
+p222
+sg7
+S'eth-zurich-swiss-federal-institute-technology'
+p223
+sg9
+S'aurelien.jpg'
+p224
+sg11
+g223
+sg12
+S'http://www.syssec.ethz.ch/imprint/people/capkun'
+p225
+ssS'David Hutchful'
+p226
+(dp227
+g3
+g53
+sg5
+V70 Washington Square South, 12S \u000aNew York\u000aNY\u000aUnited States
+p228
+sg7
+g55
+sg9
+S'p_nimmi_001.jpg'
+p229
+sg11
+g55
+sg12
+S'http://cs.nyu.edu/~jchen/'
+p230
+ssS'Daniel Romero'
+p231
+(dp232
+g3
+S'www.umn.edu'
+p233
+sg5
+V240 Williamson Hall,231 Pillsbury Drive S.E.\u000aMinneapolis\u000aMN \u000aUnited States
+p234
+sg7
+S'university-minnesota'
+p235
+sg9
+S'danielromero.jpg'
+p236
+sg11
+g235
+sg12
+S'http://www.pharmacology.med.umn.edu/staffromero.html'
+p237
+ssVQiang Yang
+p238
+(dp239
+g3
+S'www.ust.hk'
+p240
+sg5
+S'Hong Kong'
+p241
+sg7
+S'Hong Kong University'
+p242
+sg9
+S'Qiang_Yang.jpg'
+p243
+sg11
+g242
+sg12
+S'http://www.cs.ust.hk/~qyang/'
+p244
+ssS'Brendan Meeder'
+p245
+(dp246
+g3
+S'www.ucsd.edu'
+p247
+sg5
+V9500 Gilman Drive\u000aLa Jolla\u000aCA\u000aUnited States
+p248
+sg7
+S'university-california-san-diego-ucsd'
+p249
+sg9
+S'blacktweeters1210.gif'
+p250
+sg11
+g249
+sg12
+S'http://cseweb.ucsd.edu/~savage/'
+p251
+ssS'Junghoo Cho'
+p252
+(dp253
+g3
+S'www.ucla.edu'
+p254
+sg5
+V405 Hilgard Avenue\u000aLos Angeles\u000aCA\u000aUnited States
+p255
+sg7
+S'university-california-los-angeles-ucla'
+p256
+sg9
+S'2569285.png'
+p257
+sg11
+g256
+sg12
+S'http://oak.cs.ucla.edu/~cho/'
+p258
+ssS'Sreenivas Gollapudi'
+p259
+(dp260
+g3
+g74
+sg5
+VAtlanta\u000aGA\u000aUnited States
+p261
+sg7
+g76
+sg9
+S'portrait_frame_gray.gif'
+p262
+sg11
+g76
+sg12
+S'http://www.aco.gatech.edu/news.html'
+p263
+ssS'Simla Ceyhan'
+p264
+(dp265
+g3
+S'www.stanford.edu'
+p266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p267
+sg7
+S'stanford-university'
+p268
+sg9
+S'SimlaCeyhan.jpg'
+p269
+sg11
+g268
+sg12
+S'http://www.stanford.edu/~saberi/'
+p270
+ssS'Yuzhong Qu'
+p271
+(dp272
+g3
+S'www.ncsu.edu'
+p273
+sg5
+VRaleigh\u000aNC\u000aUnited States
+p274
+sg7
+S'north-carolina-state-university'
+p275
+sg9
+S'yzqu_be575847fde6481b8e1b9c8a12a04fcd.jpg'
+p276
+sg11
+g275
+sg12
+S'http://www.ise.ncsu.edu/fangroup/yuzhongqu/about_me.html'
+p277
+ssS'Yoelle Maarek'
+p278
+(dp279
+g3
+S'www.tau.ac.il'
+p280
+sg5
+VRamat Aviv\u000aP.O. Box 39040\u000aTel Aviv\u000aIsrael
+p281
+sg7
+S'tel-aviv-university'
+p282
+sg9
+S'4154947418_e5b7c6609c.jpg'
+p283
+sg11
+g282
+sg12
+S'http://www.cs.tau.ac.il/conferences/tauwocs-08/'
+p284
+ssS'Wenke Lee'
+p285
+(dp286
+g3
+g74
+sg5
+VAtlanta\u000aGA\u000aUnited States
+p287
+sg7
+g76
+sg9
+S'wenke.jpg'
+p288
+sg11
+g76
+sg12
+S'http://www.cc.gatech.edu/~wenke/'
+p289
+ssS'Jay Chen'
+p290
+(dp291
+g3
+S'www.yale.edu'
+p292
+sg5
+VP.O. Box 208236\u000aNew Haven\u000aCT\u000aUnited States
+p293
+sg7
+S'yale-university'
+p294
+sg9
+S'jay.jpg'
+p295
+sg11
+g294
+sg12
+S'http://radonc.yale.edu/people/zhe_chen-2.profile'
+p296
+ssS'Partha Talukdar'
+p297
+(dp298
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p299
+sg7
+g8
+sg9
+S'Own_picture.JPG'
+p300
+sg11
+g8
+sg12
+S'http://www.lehigh.edu/~amsp/2004/07/two-weeks-off-going-to-ladakh-also.html'
+p301
+ssS'Qin Lv'
+p302
+(dp303
+g3
+S'www.colorado.edu'
+p304
+sg5
+S'Colorado, USA'
+p305
+sg7
+S'Colorado University'
+p306
+sg9
+S'58088955.jpg'
+p307
+sg11
+g306
+sg12
+S'http://www.cs.colorado.edu/~lv/'
+p308
+ssS'Martin Abadi'
+p309
+(dp310
+g3
+S'www.ed.ac.uk'
+p311
+sg5
+VOld College\u000aSouth Bridge\u000aEdinburgh\u000aUnited Kingdom
+p312
+sg7
+S'university-edinburgh'
+p313
+sg9
+S'abadi_150.jpg'
+p314
+sg11
+g313
+sg12
+S'http://www.inf.ed.ac.uk/events/jamboree/2002/Abadi_talk2.html'
+p315
+ssS'Massimo Santini'
+p316
+(dp317
+g3
+S'www.unimi.it'
+p318
+sg5
+Vvia Festa del Perdono 7\u000aMilano \u000aItaly
+p319
+sg7
+S'university-milano'
+p320
+sg9
+S'massimo.jpg'
+p321
+sg11
+g320
+sg12
+S'http://santini.dsi.unimi.it/'
+p322
+ssS'Jayavel Shanmugasundaram'
+p323
+(dp324
+g3
+g23
+sg5
+VDay Hall Lobby\u000aIthaca\u000aNY\u000aUnited States
+p325
+sg7
+g25
+sg9
+S'Parasailing.jpg'
+p326
+sg11
+g25
+sg12
+S'http://www.cs.cornell.edu/people/jai/'
+p327
+ssS'Brandyn White'
+p328
+(dp329
+g3
+g166
+sg5
+VSeattle\u000aWA\u000aUnited States
+p330
+sg7
+g168
+sg9
+S'm_4646ee88fa79420e843dad2155f0ec7a.jpg'
+p331
+sg11
+g168
+sg12
+S'http://dub.washington.edu/people/jeffrey-bigham'
+p332
+ssS'Anindya Ghose'
+p333
+(dp334
+g3
+g53
+sg5
+V70 Washington Square South, 12S \u000aNew York\u000aNY\u000aUnited States
+p335
+sg7
+g55
+sg9
+S'aghose.gif'
+p336
+sg11
+g55
+sg12
+S'http://pages.stern.nyu.edu/~aghose/'
+p337
+ssVHanghang Tong
+p338
+(dp339
+g3
+S'www.cmu.edu'
+p340
+sg5
+V5000 Forbes Avenue\u000aPittsburgh\u000aPA\u000aUnited States
+p341
+sg7
+S'carnegie-mellon-university'
+p342
+sg9
+S'Hanghang_Tong_1297509523472.jpg'
+p343
+sg11
+g342
+sg12
+S'http://www.cs.cmu.edu/~htong/job/cv_tong.htm'
+p344
+ssS'Qirong Ho'
+p345
+(dp346
+g3
+g340
+sg5
+V5000 Forbes Avenue\u000aPittsburgh\u000aPA\u000aUnited States
+p347
+sg7
+g342
+sg9
+S'qirong_ho.png'
+p348
+sg11
+g342
+sg12
+S'http://calendar.cs.cmu.edu/weekly/2009-11-9_2009-12-15.html'
+p349
+ssS'Winter Mason'
+p350
+(dp351
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p352
+sg7
+g8
+sg9
+S'IMG_7028a.JPG'
+p353
+sg11
+g8
+sg12
+S'http://www.lehigh.edu/~bsf208/'
+p354
+ssVMatthias Hagen
+p355
+(dp356
+g3
+S'www.wisc.edu'
+p357
+sg5
+V500 Lincoln Drive\u000aMadison\u000aWI\u000aUnited States
+p358
+sg7
+S'university-wisconsin-madison'
+p359
+sg9
+S'matthias_hagen.jpg'
+p360
+sg11
+g359
+sg12
+S'http://www.library.wisc.edu/etext/Jonas/Hornbjarg/Hornbjarg-C.97.33.html'
+p361
+ssS'Mangesh Gupte'
+p362
+(dp363
+g3
+g145
+sg5
+V18 Bishop Place\u000aNew Brunswick\u000aNJ \u000aUnited States
+p364
+sg7
+g147
+sg9
+S'mangesh.jpg'
+p365
+sg11
+g147
+sg12
+S'http://dimax.rutgers.edu/~rursu/'
+p366
+ssS'Taesup Moon'
+p367
+(dp368
+g3
+S'www.berkeley.edu'
+p369
+sg5
+V110 Sproul Hall\u000aBerkeley\u000aCA\u000aUnited States
+p370
+sg7
+S'university-california-berkeley-ucb'
+p371
+sg9
+S'Tsachy_and_students_0707.JPG'
+p372
+sg11
+g371
+sg12
+S'http://www.eecs.berkeley.edu/CIS/seminars/abstracts/fall07/moon.html'
+p373
+ssS'Shirshanka Das'
+p374
+(dp375
+g3
+g254
+sg5
+V405 Hilgard Avenue\u000aLos Angeles\u000aCA\u000aUnited States
+p376
+sg7
+g256
+sg9
+S'shirshanka_das.JPG'
+p377
+sg11
+g256
+sg12
+S'http://www.cs.ucla.edu/classes/ta/scripts/'
+p378
+ssS'Danilo Ardagna'
+p379
+(dp380
+g3
+S'www.polimi.it'
+p381
+sg5
+VPiazza Leonardo Da Vinci, 32\u000aMilan\u000aItaly
+p382
+sg7
+S'politecnico-di-milano'
+p383
+sg9
+S'Ardagna.JPG'
+p384
+sg11
+g383
+sg12
+S'http://home.dei.polimi.it/ardagna/'
+p385
+ssS'Zhijun Yin'
+p386
+(dp387
+g3
+g30
+sg5
+g31
+sg7
+g32
+sg9
+S'zhijun_yin.jpg'
+p388
+sg11
+g32
+sg12
+S'http://www.cs.uiuc.edu/homes/zyin3/'
+p389
+ssS'Jiawei Han'
+p390
+(dp391
+g3
+g30
+sg5
+g31
+sg7
+g32
+sg9
+S'hanj_tour.jpg'
+p392
+sg11
+g32
+sg12
+S'http://www-faculty.cs.uiuc.edu/~hanj/'
+p393
+ssS'Young Yoon'
+p394
+(dp395
+g3
+S'www.utoronto.ca'
+p396
+sg5
+VToronto\u000aOntario\u000aCanada
+p397
+sg7
+S'university-toronto'
+p398
+sg9
+S'Member_Yoon_YoungZoon.jpg'
+p399
+sg11
+g398
+sg12
+S'http://www.msrg.utoronto.ca/~yoon/'
+p400
+ssS'Veljko Pejovic'
+p401
+(dp402
+g3
+g152
+sg5
+V3117 Cheadle Hall\u000aSanta Barbara\u000aCA\u000aUnited States
+p403
+sg7
+g154
+sg9
+S'279182718rKeIJe_fs.jpg'
+p404
+sg11
+g154
+sg12
+S'http://www.cs.ucsb.edu/~veljko/'
+p405
+ssS'Salvatore Scellato'
+p406
+(dp407
+g3
+S'www.cam.ac.uk'
+p408
+sg5
+VTrinity Lane\u000aCambridge\u000aUnited Kingdom
+p409
+sg7
+S'university-cambridge'
+p410
+sg9
+S'ss824.jpg'
+p411
+sg11
+g410
+sg12
+S'http://www.cl.cam.ac.uk/~ss824/'
+p412
+ssS'Jose San Pedro'
+p413
+(dp414
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p415
+sg7
+g8
+sg9
+S'bar11.JPG'
+p416
+sg11
+g8
+sg12
+S'http://www3.lehigh.edu/academics/catalog/html/coursesm2.html'
+p417
+ssVZhen Wen
+p418
+(dp419
+g3
+S'www.illinois.edu'
+p420
+sg5
+S'Illinois, chicago, USA'
+p421
+sg7
+S'University of Illinois Urbana'
+p422
+sg9
+S'1409337635_3c1799a251.jpg'
+p423
+sg11
+g422
+sg12
+S'http://www.ifp.illinois.edu/~zhenwen/resume/zhenwen_cv.htm'
+p424
+ssS'Wei Li'
+p425
+(dp426
+g3
+S'www.asu.edu'
+p427
+sg5
+VUniversity Drive and Mill Avenue\u000aTempe\u000aAZ\u000aUnited States
+p428
+sg7
+S'arizona-state-university'
+p429
+sg9
+S'Wei_Li_photo.jpg'
+p430
+sg11
+g429
+sg12
+S'http://geoplan.asu.edu/li'
+p431
+ssS'Ke Zhou'
+p432
+(dp433
+g3
+S'www.uq.edu.au'
+p434
+sg5
+VSt Lucia campus\u000aBrisbane\u000aQLD\u000aAustralia
+p435
+sg7
+S'university-queensland'
+p436
+sg9
+S'142337592_e631a625ea.jpg'
+p437
+sg11
+g436
+sg12
+S'http://www.uq.edu.au/uqresearchers/researcher/zhoux.html?uv_category=pub&pub=589147'
+p438
+ssS'Edo Liberty'
+p439
+(dp440
+g3
+g292
+sg5
+VP.O. Box 208236\u000aNew Haven\u000aCT\u000aUnited States
+p441
+sg7
+g294
+sg9
+S'meagain.JPG'
+p442
+sg11
+g294
+sg12
+S'http://www.cs.yale.edu/homes/vision/zucker/zpeople.html'
+p443
+ssS'Nilesh Dalvi'
+p444
+(dp445
+g3
+g166
+sg5
+VSeattle\u000aWA\u000aUnited States
+p446
+sg7
+g168
+sg9
+S'ndalvi.jpg'
+p447
+sg11
+g168
+sg12
+S'http://db.cs.washington.edu/piazza.html'
+p448
+ssVYuchen Zhang
+p449
+(dp450
+g3
+S'www.umd.edu'
+p451
+sg5
+VCollege Park\u000aMD\u000aUnited States
+p452
+sg7
+S'university-maryland-college-park'
+p453
+sg9
+S'2f509ec.jpg'
+p454
+sg11
+g453
+sg12
+S'http://www.vetmed.umd.edu/faculty/169-yanjin-zhang.html'
+p455
+ssS'Soumen Chakrabarti'
+p456
+(dp457
+g3
+S'www.iitb.ac.in'
+p458
+sg5
+VPowai\u000aMumbai\u000aIndia
+p459
+sg7
+S'indian-institute-technology-bombay-iitb'
+p460
+sg9
+S'1558607544.jpg'
+p461
+sg11
+g460
+sg12
+S'http://www.cse.iitb.ac.in/~soumen/'
+p462
+ssS'Tom Yeh'
+p463
+(dp464
+g3
+g451
+sg5
+VCollege Park\u000aMD\u000aUnited States
+p465
+sg7
+g453
+sg9
+S'face_tom.jpg'
+p466
+sg11
+g453
+sg12
+S'http://www.umiacs.umd.edu/~tomyeh/'
+p467
+ssS'Martin Ester'
+p468
+(dp469
+g3
+g128
+sg5
+V8888 University Drive\u000aBurnaby\u000aCanada
+p470
+sg7
+g130
+sg9
+S'04d0a9d.jpg'
+p471
+sg11
+g130
+sg12
+S'http://www.cs.sfu.ca/~ester/'
+p472
+ssS'o'
+p473
+(dp474
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p475
+sg7
+g8
+sg9
+S'aubrey_o_day_489909a.jpg'
+p476
+sg11
+g8
+sg12
+S'http://www3.lehigh.edu/engineering/meche/contacts/rockwell.asp'
+p477
+ssS'Rushi Bhatt'
+p478
+(dp479
+g3
+S'www.iastate.edu'
+p480
+sg5
+VAmes\u000aIA \u000aUnited States
+p481
+sg7
+S'iowa-state-university'
+p482
+sg9
+S'rushi.gif'
+p483
+sg11
+g482
+sg12
+S'http://www.cs.iastate.edu/~honavar/ailab/people2.html'
+p484
+ssS'Ghassan Karame'
+p485
+(dp486
+g3
+g221
+sg5
+VRaemistrasse 101\u000aZrich\u000aSwitzerland
+p487
+sg7
+g223
+sg9
+S'Karame.jpg'
+p488
+sg11
+g223
+sg12
+S'http://www.infsec.ethz.ch/education/as07/secsem/'
+p489
+ssS'Amr El Abbadi'
+p490
+(dp491
+g3
+g152
+sg5
+V3117 Cheadle Hall\u000aSanta Barbara\u000aCA\u000aUnited States
+p492
+sg7
+g154
+sg9
+S'ElAbbadi.jpg'
+p493
+sg11
+g154
+sg12
+S'http://www.cs.ucsb.edu/~amr/'
+p494
+ssS'Ariel Fuxman'
+p495
+(dp496
+g3
+g60
+sg5
+g61
+sg7
+g62
+sg9
+S'yiannis.JPG'
+p497
+sg11
+g62
+sg12
+S'http://www.cs.toronto.edu/~afuxman/'
+p498
+ssS'John Hopcroft'
+p499
+(dp500
+g3
+g23
+sg5
+VDay Hall Lobby\u000aIthaca\u000aNY\u000aUnited States
+p501
+sg7
+g25
+sg9
+S'hopcroft.jpg'
+p502
+sg11
+g25
+sg12
+S'http://www.cs.cornell.edu/jeh/'
+p503
+ssS'Cristian Danescu-Niculescu-Mizil'
+p504
+(dp505
+g3
+g23
+sg5
+VDay Hall Lobby\u000aIthaca\u000aNY\u000aUnited States
+p506
+sg7
+g25
+sg9
+S'cristian.jpg'
+p507
+sg11
+g25
+sg12
+S'http://www.cs.cornell.edu/home/llee/papers-by-students.html'
+p508
+ssS'Yong Yu'
+p509
+(dp510
+g3
+g427
+sg5
+VUniversity Drive and Mill Avenue\u000aTempe\u000aAZ\u000aUnited States
+p511
+sg7
+g429
+sg9
+S'Yu.jpg'
+p512
+sg11
+g429
+sg12
+S'https://webapp4.asu.edu/directory/person/109928'
+p513
+ssS'Bhaskar Ghosh'
+p514
+(dp515
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p516
+sg7
+g8
+sg9
+S'hp1.jpg'
+p517
+sg11
+g8
+sg12
+S'http://www3.lehigh.edu/News/V2news_story.asp?iNewsID=2836&strBack=%2Fnews%2FV2news_archive.asp%3FiStoryType%3D19'
+p518
+ssS'Mihir Shah'
+p519
+(dp520
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p521
+sg7
+g8
+sg9
+S'200.gif'
+p522
+sg11
+g8
+sg12
+S'http://www.lehigh.edu/~amsp/2006/01/claim-female-foeticide-correlates-with.html'
+p523
+ssS'Duncan J. Watts'
+p524
+(dp525
+g3
+g107
+sg5
+V2960 Broadway\u000aNew York\u000aNY\u000aUnited States
+p526
+sg7
+g109
+sg9
+S'Duncan_J_Watts.jpg'
+p527
+sg11
+g109
+sg12
+S'http://www.sociology.columbia.edu/fac-bios/watts/faculty.html'
+p528
+ssS'Liran Katzir'
+p529
+(dp530
+g3
+g280
+sg5
+VRamat Aviv\u000aP.O. Box 39040\u000aTel Aviv\u000aIsrael
+p531
+sg7
+g282
+sg9
+S'lirank.gif'
+p532
+sg11
+g282
+sg12
+S'http://www.cs.tau.ac.il/~hanoch/Courses/Research_sem/0405/seminar.04-05B.html'
+p533
+ssS'Ashok Kumar Ponnuswami'
+p534
+(dp535
+g3
+g74
+sg5
+VAtlanta\u000aGA\u000aUnited States
+p536
+sg7
+g76
+sg9
+S'ashok_ponnuswami.jpg'
+p537
+sg11
+g76
+sg12
+S'http://www.aco.gatech.edu/dissert/ponnuswami.html'
+p538
+ssS'D. Sivakumar'
+p539
+(dp540
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p541
+sg7
+g8
+sg9
+S'Siva.jpg'
+p542
+sg11
+g8
+sg12
+S'http://www3.lehigh.edu/academics/catalog/html/coursesm.html'
+p543
+ssS'R Ravi'
+p544
+(dp545
+g3
+S'www.iitm.ac.in'
+p546
+sg5
+VI.I.T Post Office\u000aChennai\u000aIndia
+p547
+sg7
+S'indian-institute-technology-madras-iitm'
+p548
+sg9
+S'ravi.gif'
+p549
+sg11
+g548
+sg12
+S'http://www.che.iitm.ac.in/~rrk/members.html'
+p550
+ssS'Pravin Shankar'
+p551
+(dp552
+g3
+g145
+sg5
+V18 Bishop Place\u000aNew Brunswick\u000aNJ \u000aUnited States
+p553
+sg7
+g147
+sg9
+S'pravin.jpg'
+p554
+sg11
+g147
+sg12
+S'http://paul.rutgers.edu/~spravin/'
+p555
+ssS'David Johnson'
+p556
+(dp557
+g3
+S'www.rice.edu'
+p558
+sg5
+V6100 Main\u000aHouston\u000aTX\u000aUnited States
+p559
+sg7
+S'rice-university'
+p560
+sg9
+S'david_johnson3.jpg'
+p561
+sg11
+g560
+sg12
+S'http://www.cs.rice.edu/~dbj/'
+p562
+ssS'Chengxiang Zhai'
+p563
+(dp564
+g3
+g30
+sg5
+g31
+sg7
+g32
+sg9
+S'zhai.jpg'
+p565
+sg11
+g32
+sg12
+S'http://www-faculty.cs.uiuc.edu/~czhai/'
+p566
+ssS'Bo Long'
+p567
+(dp568
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p569
+sg7
+g8
+sg9
+S'legenda_sundel_bolong_poster.jpg'
+p570
+sg11
+g8
+sg12
+S'http://www.cse.lehigh.edu/~jingli/'
+p571
+ssS'Joyojeet Pal'
+p572
+(dp573
+g3
+S'www.umich.edu'
+p574
+sg5
+VAnn Arbor\u000aMI\u000aUnited States
+p575
+sg7
+S'university-michigan'
+p576
+sg9
+S'joyojeet_award.jpg'
+p577
+sg11
+g576
+sg12
+S'http://misc.si.umich.edu/people/joyojeet'
+p578
+ssS'Jack Stokes'
+p579
+(dp580
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p581
+sg7
+g8
+sg9
+S'SocWork_JackStokes_2006.jpg'
+p582
+sg11
+g8
+sg12
+S'http://www3.lehigh.edu/academics/catalog/html/IVgradstudytwo.html'
+p583
+ssS'Christopher Olston'
+p584
+(dp585
+g3
+g266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p586
+sg7
+g268
+sg9
+S'olston.gif'
+p587
+sg11
+g268
+sg12
+S'http://infolab.stanford.edu/~olston/'
+p588
+ssS'Moses Charikar'
+p589
+(dp590
+g3
+S'www.princeton.edu'
+p591
+sg5
+VPrinceton\u000aNJ\u000aUnited States
+p592
+sg7
+S'princeton-university'
+p593
+sg9
+S'1463.jpg'
+p594
+sg11
+g593
+sg12
+S'http://www.cs.princeton.edu/~moses/'
+p595
+ssS'Susan Dumais'
+p596
+(dp597
+g3
+g166
+sg5
+VSeattle\u000aWA\u000aUnited States
+p598
+sg7
+g168
+sg9
+S'DumaisSusan2x3.jpg'
+p599
+sg11
+g168
+sg12
+S'http://projects.ischool.washington.edu/cir/dumaisbio.htm'
+p600
+ssS'Beibei Li'
+p601
+(dp602
+g3
+g53
+sg5
+V70 Washington Square South, 12S \u000aNew York\u000aNY\u000aUnited States
+p603
+sg7
+g55
+sg9
+S'beibei.jpg'
+p604
+sg11
+g55
+sg12
+S'http://pages.stern.nyu.edu/~bl873/'
+p605
+ssS'Anastasios Kementsietsidis'
+p606
+(dp607
+g3
+g60
+sg5
+g61
+sg7
+g62
+sg9
+S'img_5866.jpg'
+p608
+sg11
+g62
+sg12
+S'http://queens.db.toronto.edu/~miller/index.php?p=students'
+p609
+ssVCarlos Castillo
+p610
+(dp611
+g3
+g427
+sg5
+VUniversity Drive and Mill Avenue\u000aTempe\u000aAZ\u000aUnited States
+p612
+sg7
+g429
+sg9
+S'castillo_armas_1954.gif'
+p613
+sg11
+g429
+sg12
+S'https://webapp4.asu.edu/directory/person/566521'
+p614
+ssS'Srdjan Capkun'
+p615
+(dp616
+g3
+g221
+sg5
+VRaemistrasse 101\u000aZrich\u000aSwitzerland
+p617
+sg7
+g223
+sg9
+S'Srdjan_Capkun.jpg'
+p618
+sg11
+g223
+sg12
+S'http://www.syssec.ethz.ch/people/capkun'
+p619
+ssS'Rakesh Agrawal'
+p620
+(dp621
+g3
+S'www.purdue.edu'
+p622
+sg5
+V1080 Schleman Hall\u000aWest Lafayette\u000aIN\u000aUnited States
+p623
+sg7
+S'purdue-university'
+p624
+sg9
+S'rakesh.jpg'
+p625
+sg11
+g624
+sg12
+S'https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2004/Agrawal.htm'
+p626
+ssS'Michael Rabinovich'
+p627
+(dp628
+g3
+S'www.case.edu'
+p629
+sg5
+VCleveland\u000aOH\u000aUnited States
+p630
+sg7
+S'case-western-reserve-university'
+p631
+sg9
+S'Michael.Rabinovich.US.gif'
+p632
+sg11
+g631
+sg12
+S'http://vorlon.case.edu/~misha/'
+p633
+ssS'Jonathan Ledlie.'
+p634
+(dp635
+g3
+S'www.harvard.edu'
+p636
+sg5
+V1350 Massachusetts Ave\u000aCambridge\u000aMA\u000aUnited States
+p637
+sg7
+S'harvard-university'
+p638
+sg9
+S'jh2.jpg'
+p639
+sg11
+g638
+sg12
+S'http://fiji.eecs.harvard.edu/biblio/author/44'
+p640
+ssS'Yi Chang'
+p641
+(dp642
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p643
+sg7
+g8
+sg9
+S'yi_chang_hao_Tea_Co_Ltd.jpg'
+p644
+sg11
+g8
+sg12
+S'http://www.cse.lehigh.edu/~cheng/'
+p645
+ssS'Sotiris Ioannidis'
+p646
+(dp647
+g3
+g107
+sg5
+V2960 Broadway\u000aNew York\u000aNY\u000aUnited States
+p648
+sg7
+g109
+sg9
+S'si.jpg'
+p649
+sg11
+g109
+sg12
+S'http://nsl.cs.columbia.edu/projects/gridlock/'
+p650
+ssS'Jon Crowcroft'
+p651
+(dp652
+g3
+g408
+sg5
+VTrinity Lane\u000aCambridge\u000aUnited Kingdom
+p653
+sg7
+g410
+sg9
+S'JonCrowcroft.gif'
+p654
+sg11
+g410
+sg12
+S'http://www.cl.cam.ac.uk/~jac22/'
+p655
+ssS'Min Wang'
+p656
+(dp657
+g3
+S'www.hku.hk'
+p658
+sg5
+VPok Fu Lam Road\u000aHong Kong\u000aHong Kong
+p659
+sg7
+S'university-hong-kong'
+p660
+sg9
+S'1_Min_Wang.jpg'
+p661
+sg11
+g660
+sg12
+S'http://web.hku.hk/~memwang/'
+p662
+ssS'Paul Fodor'
+p663
+(dp664
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p665
+sg7
+g8
+sg9
+S'image003.jpg'
+p666
+sg11
+g8
+sg12
+S'http://www.lehigh.edu/~mhb0/vita.html'
+p667
+ssS'Michael Grabchak'
+p668
+(dp669
+g3
+g145
+sg5
+V18 Bishop Place\u000aNew Brunswick\u000aNJ \u000aUnited States
+p670
+sg7
+g147
+sg9
+S'Grabchak.jpg'
+p671
+sg11
+g147
+sg12
+S'http://www.math.rutgers.edu/newsletter/newsletter2004.html'
+p672
+ssS'Silvio Lattanzi'
+p673
+(dp674
+g3
+S'www.uniroma1.it'
+p675
+sg5
+VPiazzale Aldo Moro 5\u000aRoma\u000aItaly
+p676
+sg7
+S'sapienza-university-rome'
+p677
+sg9
+S'lattanzi.jpg'
+p678
+sg11
+g677
+sg12
+S'http://phd.di.uniroma1.it/thesis.php'
+p679
+ssS'Xiaoxin Yin'
+p680
+(dp681
+g3
+g30
+sg5
+g31
+sg7
+g32
+sg9
+S'xiaoxin_small.jpg'
+p682
+sg11
+g32
+sg12
+S'http://dm1.cs.uiuc.edu/expeople.htm'
+p683
+ssS'Lorenzo Blanco'
+p684
+(dp685
+g3
+g574
+sg5
+VAnn Arbor\u000aMI\u000aUnited States
+p686
+sg7
+g576
+sg9
+S'elmalb.jpg'
+p687
+sg11
+g576
+sg12
+S'http://sitemaker.umich.edu/umsarc/faculty___staff'
+p688
+ssS'Brian Karrer'
+p689
+(dp690
+g3
+g574
+sg5
+VAnn Arbor\u000aMI\u000aUnited States
+p691
+sg7
+g576
+sg9
+S'0bed4a2.jpg'
+p692
+sg11
+g576
+sg12
+S'http://www-personal.umich.edu/~mejn/'
+p693
+ssS'Zhaohui Zheng'
+p694
+(dp695
+g3
+g340
+sg5
+V5000 Forbes Avenue\u000aPittsburgh\u000aPA\u000aUnited States
+p696
+sg7
+g342
+sg9
+S'zhaohui.gif'
+p697
+sg11
+g342
+sg12
+S'http://www.cs.cmu.edu/~hustlf/'
+p698
+ssS'Sipat Triukose'
+p699
+(dp700
+g3
+g629
+sg5
+VCleveland\u000aOH\u000aUnited States
+p701
+sg7
+g631
+sg9
+S'sipat_pic.jpg'
+p702
+sg11
+g631
+sg12
+S'http://vorlon.case.edu/~misha/'
+p703
+ssS'Sergei Vassilvitskii'
+p704
+(dp705
+g3
+g266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p706
+sg7
+g268
+sg9
+S'portrait.jpg'
+p707
+sg11
+g268
+sg12
+S'http://theory.stanford.edu/~sergei/'
+p708
+ssS'Jennifer Chayes'
+p709
+(dp710
+g3
+S'www.nus.edu.sg'
+p711
+sg5
+V21 Lower Kent Ridge Road\u000aSingapore\u000aSingapore
+p712
+sg7
+S'national-university-singapore-nus'
+p713
+sg9
+S'Chayes.jpg'
+p714
+sg11
+g713
+sg12
+S'http://sms.math.nus.edu.sg/Program2006.html'
+p715
+ssS'Christopher Kruegel'
+p716
+(dp717
+g3
+g152
+sg5
+V3117 Cheadle Hall\u000aSanta Barbara\u000aCA\u000aUnited States
+p718
+sg7
+g154
+sg9
+S'kruegel.jpg'
+p719
+sg11
+g154
+sg12
+S'http://www.cs.ucsb.edu/~chris/'
+p720
+ssVMonika Henzinger
+p721
+(dp722
+g3
+S'www.univie.ac.at'
+p723
+sg5
+VDr. Karl Lueger Ring 1\u000aVienna\u000aAustria
+p724
+sg7
+S'university-vienna'
+p725
+sg9
+S'Monika_Henzinger_210x265.jpg'
+p726
+sg11
+g725
+sg12
+S'http://cs.univie.ac.at/employee.php?eid=1830'
+p727
+ssS'Barbara Panicucci'
+p728
+(dp729
+g3
+S'www.uwaterloo.ca'
+p730
+sg5
+S'Waterloo, Canada'
+p731
+sg7
+S'Waterloo University'
+p732
+sg9
+S'27460_100001394642388_9791_q.jpg'
+p733
+sg11
+g732
+sg12
+S'http://orion.uwaterloo.ca/~hwolkowi/henry/reports/talks.d/t02talks.d/02italy.d/readme.html'
+p734
+ssS'Thomas Huang'
+p735
+(dp736
+g3
+g420
+sg5
+g421
+sg7
+g422
+sg9
+S'amd_buildhuang.jpg'
+p737
+sg11
+g422
+sg12
+S'http://www.beckman.illinois.edu/directory/t-huang1'
+p738
+ssS'John John'
+p739
+(dp740
+g3
+g711
+sg5
+V21 Lower Kent Ridge Road\u000aSingapore\u000aSingapore
+p741
+sg7
+g713
+sg9
+S'john_john_salutes.jpg'
+p742
+sg11
+g713
+sg12
+S'http://www.ece.nus.edu.sg/staff/web.asp?id=elecjj'
+p743
+ssS'Markus Mobius'
+p744
+(dp745
+g3
+g369
+sg5
+V110 Sproul Hall\u000aBerkeley\u000aCA\u000aUnited States
+p746
+sg7
+g371
+sg9
+S'98.jpg'
+p747
+sg11
+g371
+sg12
+S'http://www.econ.berkeley.edu/~szeidl/'
+p748
+ssS'Sougata Mukherjea'
+p749
+(dp750
+g3
+S'www.umass.edu'
+p751
+sg5
+VAmherst\u000aMA\u000aUnited States
+p752
+sg7
+S'university-massachusetts-amherst'
+p753
+sg9
+S'473.jpg'
+p754
+sg11
+g753
+sg12
+S'http://www.cs.umass.edu/~rahul/'
+p755
+ssS'Yunhui Zheng'
+p756
+(dp757
+g3
+g88
+sg5
+V2138 Campus Drive\u000aBox 90586\u000aDurham\u000aNC\u000aUnited States
+p758
+sg7
+g90
+sg9
+S'webzheng.jpg'
+p759
+sg11
+g90
+sg12
+S'http://www.disp.duke.edu/people/'
+p760
+ssS'Jure Leskovec'
+p761
+(dp762
+g3
+g266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p763
+sg7
+g268
+sg9
+S'thumb.jpg'
+p764
+sg11
+g268
+sg12
+S'http://cs.stanford.edu/people/jure/'
+p765
+ssS'Larry S. Davis'
+p766
+(dp767
+g3
+g451
+sg5
+VCollege Park\u000aMD\u000aUnited States
+p768
+sg7
+g453
+sg9
+S'101526393.JPG'
+p769
+sg11
+g453
+sg12
+S'http://www.umiacs.umd.edu/~lsd/'
+p770
+ssS'Richard Han'
+p771
+(dp772
+g3
+g304
+sg5
+g305
+sg7
+g306
+sg9
+S'112cb12.jpg'
+p773
+sg11
+g306
+sg12
+S'http://www.cs.colorado.edu/~rhan/'
+p774
+ssS'Hongyuan Zha'
+p775
+(dp776
+g3
+g74
+sg5
+VAtlanta\u000aGA\u000aUnited States
+p777
+sg7
+g76
+sg9
+S'chat1.jpg'
+p778
+sg11
+g76
+sg12
+S'http://www.cc.gatech.edu/~zha/'
+p779
+ssS'Randall Lewis'
+p780
+(dp781
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p782
+sg7
+g8
+sg9
+S'randall_lewis_c_ida_mae.jpg'
+p783
+sg11
+g8
+sg12
+S'http://www4.lehigh.edu/news/newsarticle.aspx?Channel=%2FChannels%2FNews%3A+2011&WorkflowItemID=0885ee29-e72f-4ca9-81f3-26fdf1b60eea'
+p784
+ssS'Justin Rao'
+p785
+(dp786
+g3
+g247
+sg5
+V9500 Gilman Drive\u000aLa Jolla\u000aCA\u000aUnited States
+p787
+sg7
+g249
+sg9
+S'161176_100000723715773_3922843_n.jpg'
+p788
+sg11
+g249
+sg12
+S'http://econ.ucsd.edu/~jandreon/advisees.htm'
+p789
+ssS'Amin Sayedi'
+p790
+(dp791
+g3
+g340
+sg5
+V5000 Forbes Avenue\u000aPittsburgh\u000aPA\u000aUnited States
+p792
+sg7
+g342
+sg9
+S'contact.jpg'
+p793
+sg11
+g342
+sg12
+S'http://www.andrew.cmu.edu/user/ssayedir/'
+p794
+ssS'Jitendra Ajmera'
+p795
+(dp796
+g3
+S'www.psu.edu'
+p797
+sg5
+V201 Old Main\u000aUniversity Park\u000aPA\u000aUnited States
+p798
+sg7
+S'pennsylvania-state-university'
+p799
+sg9
+S'thumb_JitendraAjmera.jpg'
+p800
+sg11
+g799
+sg12
+S'http://citeseerx.ist.psu.edu/search?q="Audio+Segmentation."'
+p801
+ssS'Shivakant Mishra'
+p802
+(dp803
+g3
+g304
+sg5
+g305
+sg7
+g306
+sg9
+S'256695.jpg'
+p804
+sg11
+g306
+sg12
+S'http://www.cs.colorado.edu/~mishras/'
+p805
+ssS'Bo Pang'
+p806
+(dp807
+g3
+S'www.jhu.edu'
+p808
+sg5
+VBaltimore\u000aMD\u000aUnited States
+p809
+sg7
+S'johns-hopkins-university'
+p810
+sg9
+S'bopang.jpg'
+p811
+sg11
+g810
+sg12
+S'http://www.clsp.jhu.edu/news-events/abstract.php?sid=20071204'
+p812
+ssS'Subbarao Kambhampati'
+p813
+(dp814
+g3
+g427
+sg5
+VUniversity Drive and Mill Avenue\u000aTempe\u000aAZ\u000aUnited States
+p815
+sg7
+g429
+sg9
+S'tempo.jpg'
+p816
+sg11
+g429
+sg12
+S'http://rakaposhi.eas.asu.edu/'
+p817
+ssS'Xue Liu'
+p818
+(dp819
+g3
+g16
+sg5
+V845 Sherbrooke Street West\u000aMontreal\u000aQuebec\u000aCanada
+p820
+sg7
+g18
+sg9
+S'liu.png'
+p821
+sg11
+g18
+sg12
+S'http://www.cs.mcgill.ca/~xueliu/'
+p822
+ssS'Sebastian Rudolph'
+p823
+(dp824
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p825
+sg7
+g8
+sg9
+S'003548_43.jpg'
+p826
+sg11
+g8
+sg12
+S'http://digital.lib.lehigh.edu/cdm4/beyond_viewer.php?DMTHUMB=1&searchworks=cat20&ptr=7474&view=co'
+p827
+ssS'David Reiley'
+p828
+(dp829
+g3
+S'www.arizona.edu'
+p830
+sg5
+VTucson\u000aAZ\u000aUnited States
+p831
+sg7
+S'university-arizona'
+p832
+sg9
+S'backyard.jpg'
+p833
+sg11
+g832
+sg12
+S'http://www.u.arizona.edu/~dreiley/home.html'
+p834
+ssS'Yue Lu'
+p835
+(dp836
+g3
+g636
+sg5
+V1350 Massachusetts Ave\u000aCambridge\u000aMA\u000aUnited States
+p837
+sg7
+g638
+sg9
+S'Yue.jpg'
+p838
+sg11
+g638
+sg12
+S'http://lu.seas.harvard.edu/'
+p839
+ssS'Alex'
+p840
+(dp841
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p842
+sg7
+g8
+sg9
+S'alex_pettyfer_1256207836.jpg'
+p843
+sg11
+g8
+sg12
+S'http://coral.ie.lehigh.edu/~terlaky/'
+p844
+ssS'Yinglian Xie'
+p845
+(dp846
+g3
+g340
+sg5
+V5000 Forbes Avenue\u000aPittsburgh\u000aPA\u000aUnited States
+p847
+sg7
+g342
+sg9
+S'spamfighting_crw0094.jpg'
+p848
+sg11
+g342
+sg12
+S'http://www.cs.cmu.edu/~ylxie/resume.htm'
+p849
+ssS'Hans-Arno Jacobsen'
+p850
+(dp851
+g3
+g396
+sg5
+VToronto\u000aOntario\u000aCanada
+p852
+sg7
+g398
+sg9
+S'fetu006.jpg'
+p853
+sg11
+g398
+sg12
+S'http://www.eecg.utoronto.ca/cgi-bin/cgiwrap/vinod/moin.cgi/FrontPage'
+p854
+ssS'Mohsen Jamali'
+p855
+(dp856
+g3
+S'www.ut.ac.ir'
+p857
+sg5
+V16 Azar Street\u000aEnghelab Ave\u000aTehran\u000aIran
+p858
+sg7
+S'university-tehran'
+p859
+sg9
+S'mohsen.jpg'
+p860
+sg11
+g859
+sg12
+S'http://khorshid.ut.ac.ir/~m.jamaly/'
+p861
+ssS'Wei Dong'
+p862
+(dp863
+g3
+g357
+sg5
+V500 Lincoln Drive\u000aMadison\u000aWI\u000aUnited States
+p864
+sg7
+g359
+sg9
+S'wei_dong_0_sml.jpg'
+p865
+sg11
+g359
+sg12
+S'http://www.sohe.wisc.edu/etd/faculty/facultyprofiles/dong.html'
+p866
+ssS'Eric Xing'
+p867
+(dp868
+g3
+g340
+sg5
+V5000 Forbes Avenue\u000aPittsburgh\u000aPA\u000aUnited States
+p869
+sg7
+g342
+sg9
+S'me06.JPG'
+p870
+sg11
+g342
+sg12
+S'http://www.cs.cmu.edu/~epxing/'
+p871
+ssS'Aristides Gionis'
+p872
+(dp873
+g3
+g266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p874
+sg7
+g268
+sg9
+S'cover2.jpg'
+p875
+sg11
+g268
+sg12
+S'http://theory.stanford.edu/~gionis/'
+p876
+ssS'Wei Hu'
+p877
+(dp878
+g3
+g636
+sg5
+V1350 Massachusetts Ave\u000aCambridge\u000aMA\u000aUnited States
+p879
+sg7
+g638
+sg9
+S'ehu.jpg'
+p880
+sg11
+g638
+sg12
+S'http://www.fas.harvard.edu/~vsdb/huwei.html'
+p881
+ssVMarcelo Mendoza
+p882
+(dp883
+g3
+S'www.uba.ar'
+p884
+sg5
+VViamonte 430\u000aBuenos Aires\u000aArgentina
+p885
+sg7
+S'universidad-de-buenos-aires'
+p886
+sg9
+S'marcelo.jpeg'
+p887
+sg11
+g886
+sg12
+S'http://www.filo.uba.ar/contenidos/carreras/filo/catedras/Seminariomendozahurtado/composicion'
+p888
+ssS'Paolo Boldi'
+p889
+(dp890
+g3
+g318
+sg5
+Vvia Festa del Perdono 7\u000aMilano \u000aItaly
+p891
+sg7
+g320
+sg9
+S'paolo.jpg'
+p892
+sg11
+g320
+sg12
+S'http://boldi.dsi.unimi.it/'
+p893
+ssS'Benoit Dumoulin'
+p894
+(dp895
+g3
+g266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p896
+sg7
+g268
+sg9
+S'Benoit.Dumoulin.US.gif'
+p897
+sg11
+g268
+sg12
+S'http://www-nlp.stanford.edu/~htseng/'
+p898
+ssS'Jing Li'
+p899
+(dp900
+g3
+g145
+sg5
+V18 Bishop Place\u000aNew Brunswick\u000aNJ \u000aUnited States
+p901
+sg7
+g147
+sg9
+S'jing_li.jpg'
+p902
+sg11
+g147
+sg12
+S'http://rutchem.rutgers.edu/li_jing'
+p903
+ssS'Guo-Jun Qi'
+p904
+(dp905
+g3
+g420
+sg5
+g421
+sg7
+g422
+sg9
+S'qi4.jpg'
+p906
+sg11
+g422
+sg12
+S'http://www.ifp.illinois.edu/~qi4/'
+p907
+ssS'Xiaolin Shi'
+p908
+(dp909
+g3
+g266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p910
+sg7
+g268
+sg9
+S'profile.jpg'
+p911
+sg11
+g268
+sg12
+S'http://www.stanford.edu/~shixl/'
+p912
+ssS'Chunyang Ye'
+p913
+(dp914
+g3
+g240
+sg5
+g241
+sg7
+g242
+sg9
+S'Chunyang_Ye.jpg'
+p915
+sg11
+g242
+sg12
+S'http://www.cse.ust.hk/pg/ourgraduates/'
+p916
+ssS'Jon Kleinberg'
+p917
+(dp918
+g3
+g23
+sg5
+VDay Hall Lobby\u000aIthaca\u000aNY\u000aUnited States
+p919
+sg7
+g25
+sg9
+S'JonKleinberg.jpg'
+p920
+sg11
+g25
+sg12
+S'http://www.cs.cornell.edu/home/kleinber/'
+p921
+ssS'Panagiotis Ipeirotis'
+p922
+(dp923
+g3
+g53
+sg5
+V70 Washington Square South, 12S \u000aNew York\u000aNY\u000aUnited States
+p924
+sg7
+g55
+sg9
+S'panos.gif'
+p925
+sg11
+g55
+sg12
+S'http://pages.stern.nyu.edu/~panos/'
+p926
+ssS'Giovanni Vigna'
+p927
+(dp928
+g3
+g152
+sg5
+V3117 Cheadle Hall\u000aSanta Barbara\u000aCA\u000aUnited States
+p929
+sg7
+g154
+sg9
+S'vigna.jpg'
+p930
+sg11
+g154
+sg12
+S'http://www.cs.ucsb.edu/~vigna/'
+p931
+ssS'Hamid Nazerzadeh'
+p932
+(dp933
+g3
+g266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p934
+sg7
+g268
+sg9
+S'hamid.jpg'
+p935
+sg11
+g268
+sg12
+S'http://www.stanford.edu/~saberi/'
+p936
+ssS'Gregory Lewis'
+p937
+(dp938
+g3
+g4
+sg5
+V27 Memorial Drive West\u000aBethlehem\u000aPA\u000aUnited States
+p939
+sg7
+g8
+sg9
+S'39.jpg'
+p940
+sg11
+g8
+sg12
+S'http://www3.lehigh.edu/academics/catalog/html/VIIadmin.html'
+p941
+ssS'Elizabeth Belding'
+p942
+(dp943
+g3
+g152
+sg5
+V3117 Cheadle Hall\u000aSanta Barbara\u000aCA\u000aUnited States
+p944
+sg7
+g154
+sg9
+S'elizabeth_belding_2.jpg'
+p945
+sg11
+g154
+sg12
+S'http://www.cs.ucsb.edu/~ebelding/Home.html'
+p946
+ssS'Werner Geyer'
+p947
+(dp948
+g3
+g107
+sg5
+V2960 Broadway\u000aNew York\u000aNY\u000aUnited States
+p949
+sg7
+g109
+sg9
+S'wgeyer.jpg'
+p950
+sg11
+g109
+sg12
+S'http://cnrc.columbia.edu/seminars-f01.html'
+p951
+ssS'Xiangyu Zhang'
+p952
+(dp953
+g3
+g357
+sg5
+V500 Lincoln Drive\u000aMadison\u000aWI\u000aUnited States
+p954
+sg7
+g359
+sg9
+S'1058778.jpg'
+p955
+sg11
+g359
+sg12
+S'http://pages.cs.wisc.edu/~qunfeng/zhang.php'
+p956
+ssS'Krishnaram Kenthapadi.'
+p957
+(dp958
+g3
+g266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p959
+sg7
+g268
+sg9
+S'krisken.jpg'
+p960
+sg11
+g268
+sg12
+S'http://theory.stanford.edu/~nmishra/'
+p961
+ssS'Desmond Br'
+p962
+(dp963
+g3
+g266
+sg5
+V450 Serra Mall\u000aStanford\u000aCA\u000aUnited States
+p964
+sg7
+g268
+sg9
+S'wfwv0k6er5dpe65v.jpg'
+p965
+sg11
+g268
+sg12
+S'http://ecorner.stanford.edu/author/susan_desmond-hellmann'
+p966
+ssS'Zhihua Wen'
+p967
+(dp968
+g3
+g629
+sg5
+VCleveland\u000aOH\u000aUnited States
+p969
+sg7
+g631
+sg9
+S'55dc2361022f1aeb9c52876940215ceb.jpg'
+p970
+sg11
+g631
+sg12
+S'http://vorlon.case.edu/~lxw52/eecs338/'
+p971
+ss.

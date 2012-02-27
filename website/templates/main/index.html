@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% block extra_head %}
+<script type="text/javascript" src="/media/js/jquery.js"></script>
+<script type="text/javascript" src="/media/js/jquery.autocomplete.css"></script>
+<link rel="stylesheet" type="text/css" href="/media/css/jquery.autocomplete.css" media="screen" />
+<script type="text/javascript">
+
+</script>
+{% endblock %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<h2>Select who are you</h2>
+<p>
+    <form method="post" action="">
+    <table>
+        {{ form.as_table }}
+        <tr><td><input type="submit" value="Go" style="margin-left:0px; margin-top:5px;"></td><tr/>
+    </table>
+    </form>
+</p>
+<h2>Not in this list?</h2>
+<p>
+    <a href="/add-new-professor/">Click here</a> to add your name.
+</p>
+{% endblock %}

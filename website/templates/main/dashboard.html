@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block extra_head %}
+{% endblock %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+<h2>Hello, <span style="color:blue;"><i>{{ cp.professor.name }}! </i></span></h2>
+<p>
+    See all the recommendations - 
+    <ul>
+        <li><a href="/map/{{ cp.id }}/10/">On the basis of distance</a></li>
+        <li><a href="/co-authors/{{ cp.id }}/">On the basis of co-authors</a></li>
+        <li><a href="/cite-authors/{{ cp.id }}/">On the basis of citations</a></li>
+        <li><a href="/ref-authors/{{ cp.id }}/">On the basis of references</a></li>
+    <ul>
+</p>
+{% endblock %}

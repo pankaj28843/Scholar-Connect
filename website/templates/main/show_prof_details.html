@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% block extra_head %}
+<style type="text/css">
+
+</style>
+{% endblock %}
+{% block title %}Professor Info{% endblock %}
+{% block content %}
+<h2>Detailed Information</h2>
+<p>
+    <table style="margin-left:40px;">
+        <tr>
+            <td style="width:200px;">Photo</td>
+            <td><img src="{{ prof.get_image_url }}" height="200"/></td>
+        </tr>
+        <tr>
+            <td style="width:200px;">Name</td>
+            <td>{{ prof.name }}</td>
+        </tr>
+        <tr>
+            <td style="width:200px;">University</td>
+            <td>{{ prof.university }}</td>
+        </tr>
+        <tr>
+            <td style="width:200px;">Website</td>
+            <td><a href="{{ prof.domain }}" target="_blank">{{ prof.domain }}</a></td>
+        </tr>
+        <tr>
+            <td style="width:200px;">Address</td>
+            <td>{{ prof.address }}</td>
+        </tr>
+   </table>
+</p>
+{% endblock %}

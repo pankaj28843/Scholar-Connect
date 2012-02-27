@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block extra_head %}
+<script type="text/javascript" src="http://api.maps.yahoo.com/ajaxymap?v=3.0&appid=bKMgf4fV34E9x0A5jtNUGgzpzMb9zlTaAt.TxT0SbnFY2mkYeCnbD2OoTlRTEdfKwv1nAj2HDtEghC0yO_mUC6gxFEbC0pY-"></script>
+<style type="text/css">
+    #mapContainer { height: 400px; width: 880px; border:1px #000 solid; }
+</style>
+
+{% endblock %}
+{% block title %}Distance{% endblock %}
+{% block content %}
+<h2>Hello, <span style="color:blue;"><i>{{ prof.name }}! </i></span> these are people you should collaborate with in this conference on the basis of who is nearer to you</h2>
+<h4>Show - <a href="/map/{{ cp.id }}/5/">Top 5</a>&nbsp;&nbsp;&nbsp;<a href="/map/{{ cp.id }}/10/">Top 10</a>&nbsp;&nbsp;&nbsp;<a href="/map/{{ cp.id }}/15/">Top 15</a>&nbsp;&nbsp;&nbsp;<a href="/map/{{ cp.id }}/20/">Top 20</a>&nbsp;&nbsp;&nbsp;<a href="/map/{{ cp.id }}/">All</a></h4>
+<p>
+    <div id="mapContainer"></div>
+</p>
+<script type="text/javascript">
+    function createYahooMarker(rank,geopoint, size,prof_name, latitude, longitude,distance,marker_name,initial) { 
+        var myImage = new YImage();
+        myImage.src = marker_name             
+        myImage.size = new YSize(size, size);
+        var marker = new YMarker(geopoint, myImage);	
+        document.write("<p><b style='color:blue;'><u>"+rank+".</u></b>&nbsp;&nbsp;<span style='color:blue'>"+prof_name+"</span> from <span style='color:blue;'>"+geopoint+"</span> is <span style='color:blue;'>"+distance+ " kms</span> away from you.</p>");
+        marker.addAutoExpand("Rank - "+rank+", "+prof_name+" from "+geopoint+" is "+distance+" kms away from you.");
+        var markerMarkup = "<b>You can add markup this</b>";
+        markerMarkup += "<i> easy</i>";
+        return marker; 
+    }
+    var map = new  YMap(document.getElementById('mapContainer'), YAHOO_MAP_REG);
+    map.addPanControl(); 
+    map.addZoomLong(); 
+    map.drawZoomAndCenter("Topeka, KS", 14);
+    
+    {% for s in result %}
+    map.addOverlay(new createYahooMarker('{{ forloop.counter }}','{{ s.professor.location }}', '50','{{ s.professor.name }}','42.056499','-87.675217','{{ s.distance }}','{{ s.professor.get_image_url }}','{{ s.professor.university }}'))
+    {% endfor %}
+    /*
+    map.addOverlay(new createYahooMarker('1','northwestern-university', 50,'Arvind Krishnamurthy ','42.056499','-87.675217','0','/media/img/faces/image002.jpg','northwestern-university'))
+    map.addOverlay(new createYahooMarker('2','princeton-university', 50,'Sanjeev Arora','40.344028','-74.656914','1107','/media/img/faces/SanjeevArora.jpg','northwestern-university'))
+    map.addOverlay(new createYahooMarker('3','Colorado University', 50,'Shivakant Mishra','39.674999','-104.966492','1479','/media/img/faces/shivakant_mishra.png','northwestern-university'))
+    map.addOverlay(new createYahooMarker('4','university-calgary', 50,'Sui Huang','51.076720','-114.131194','2240','/media/img/faces/huang_0.jpg','northwestern-university'))
+    map.addOverlay(new createYahooMarker('5','indian-institute-technology-kharagpur-iitkgp', 50,'Sudeshna Sarkar','22.351575','87.329800','12855','/media/img/faces/SS.jpg','northwestern-university'))
+    */
+</script>
+{% endblock %}
